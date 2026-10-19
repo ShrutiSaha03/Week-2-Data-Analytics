@@ -1,0 +1,1001 @@
+Order ID,Customer Name,Gender,Age,City,Product Category,Quantity,Unit Price (INR),Discount %,Payment Method,Order Date,Customer Rating,Coupon Code,Coupon Code Clean,Customer Name Clean,City Clean,Discount Clean
+ORD1392,Customer 147,Female,32,Bengaluru,Furniture,2,1042.1,0,Cash on Delivery,25-02-2025,2,,NO COUPON RECORDED,Customer 147,Bengaluru,0
+ORD1976,Customer 39,Female,13,Mumbai,Groceries,7,715.8,10,Credit Card,25-09-2025,2,SAVE10,SAVE10,Customer 39,Mumbai,10
+ORD1457,Customer 253,Male,37,Delhi,Electronics,7,787.7,20,Credit Card,29-09-2025,4,,NO COUPON RECORDED,Customer 253,Delhi,20
+ORD1239,Customer 251,Male,35,Hyderabad,Clothing,7,1223.53,0,Credit Card,12-05-2025,1,,NO COUPON RECORDED,Customer 251,Hyderabad,0
+ORD1440,Customer 389,Female,42,Bengaluru,Electronics,1,1112.13,20,Debit Card,13-03-2025,2,,NO COUPON RECORDED,Customer 389,Bengaluru,20
+ORD1683,Customer 383,Female,35,Bengaluru,Furniture,3,1698.83,10,UPI,24-06-2025,,,NO COUPON RECORDED,Customer 383,Bengaluru,10
+ORD1143,Customer 164,Female,50,Mumbai,Electronics,6,1034.91,5,Debit Card,,4,,NO COUPON RECORDED,Customer 164,Mumbai,5
+ORD1058,Customer 297,Male,35,Hyderabad,Electronics,2,1178.04,20,Debit Card,08-04-2025,,,NO COUPON RECORDED,Customer 297,Hyderabad,20
+ORD1411,Customer 92,Female,38,Pune,Books,1,1022.14,15,UPI,19-05-2025,,,NO COUPON RECORDED,Customer 92,Pune,15
+ORD1035,Customer 26,Female,35,Chennai,Groceries,3,5716.52,15,Debit Card,24-01-2025,2,,NO COUPON RECORDED,Customer 26,Chennai,15
+ORD1918,Customer 102,Male,38,Hyderabad,Electronics,4,1518.84,10,Cash on Delivery,20-06-2025,2,,NO COUPON RECORDED,Customer 102,Hyderabad,10
+ORD1303,Customer 358,Female,50,Delhi,Furniture,6,812.54,5,Cash on Delivery,06-01-2025,3,,NO COUPON RECORDED,Customer 358,Delhi,5
+ORD1314,Customer 98,Female,13,Hyderabad,Furniture,6,10298.54,15,Credit Card,01-02-2025,,,NO COUPON RECORDED,Customer 98,Hyderabad,15
+ORD1360,Customer 338,Male,35,Delhi,Electronics,2,748.82,10,Debit Card,22-08-2025,4,SAVE10,SAVE10,Customer 338,Delhi,10
+ORD1051,Customer 78,,32,Kolkata,Furniture,1,2233.84,,Credit Card,24-02-2025,,,NO COUPON RECORDED,Customer 78,Kolkata,
+ORD1027,Customer 329,Male,34,Delhi,Electronics,1,515.67,5,Cash on Delivery,15-08-2025,4,SAVE10,SAVE10,Customer 329,Delhi,5
+ORD1633,Customer 152,Female,35,Chennai,Books,4,663.33,5,,30-12-2025,4,,NO COUPON RECORDED,Customer 152,Chennai,5
+ORD1562,Customer 197,Male,35,Mumbai,Furniture,4,859.25,0,Credit Card,09-08-2025,3,,NO COUPON RECORDED,Customer 197,Mumbai,0
+ORD1840,Customer 116,Male,35,Pune,Books,7,396.63,,Cash on Delivery,12-07-2025,3,,NO COUPON RECORDED,Customer 116,Pune,
+ORD1505,Customer 182,Male,35,Bengaluru,Electronics,3,1295.85,5,Cash on Delivery,17-11-2025,5,,NO COUPON RECORDED,Customer 182,Bengaluru,5
+ORD1874,Customer 279,Male,35,Hyderabad,Groceries,7,1105.66,20,UPI,22-05-2025,,,NO COUPON RECORDED,Customer 279,Hyderabad,20
+ORD1164,Customer 167,Female,32,,Books,1,811.37,10,Credit Card,24-02-2025,4,,NO COUPON RECORDED,Customer 167,Unknown,10
+ORD1057,Customer 62,Female,14,Mumbai,Clothing,3,1356.17,,Debit Card,06-02-2025,2,,NO COUPON RECORDED,Customer 62,Mumbai,
+ORD1454,Customer 239,Female,33,Pune,Electronics,6,599.13,,Debit Card,01-04-2025,1,,NO COUPON RECORDED,Customer 239,Pune,
+ORD1385,Customer 49,Male,22,Delhi,Groceries,7,610.57,20,Credit Card,26-08-2025,,SAVE10,SAVE10,Customer 49,Delhi,20
+ORD1193,Customer 145,Female,23,Delhi,Groceries,2,2544.42,5,Debit Card,03-06-2025,3,,NO COUPON RECORDED,Customer 145,Delhi,5
+ORD1189,Customer 121,Male,35,Chennai,Groceries,3,886.75,0,Cash on Delivery,22-01-2025,2,,NO COUPON RECORDED,Customer 121,Chennai,0
+ORD1496,Customer 48,Female,40,Pune,Clothing,1,2063.3,20,Cash on Delivery,08-03-2025,3,,NO COUPON RECORDED,Customer 48,Pune,20
+ORD1787,Customer 274,Male,46,Mumbai,Groceries,6,1606.69,10,Cash on Delivery,26-10-2025,5,,NO COUPON RECORDED,Customer 274,Mumbai,10
+ORD1998,Customer 384,Male,40,Chennai,Furniture,5,942.94,15,Cash on Delivery,,3,,NO COUPON RECORDED,Customer 384,Chennai,15
+ORD1783,Customer 49,Female,27,Pune,Books,7,985.88,5,UPI,03-03-2025,3,,NO COUPON RECORDED,Customer 49,Pune,5
+ORD1753,Customer 374,Male,45,Hyderabad,Electronics,4,7220.34,0,Debit Card,17-12-2025,,,NO COUPON RECORDED,Customer 374,Hyderabad,0
+ORD1644,Customer 308,Male,32,Hyderabad,Groceries,4,414.62,10,UPI,04-11-2025,1,,NO COUPON RECORDED,Customer 308,Hyderabad,10
+ORD1852,Customer 385,Male,32,Delhi,Books,4,2076.19,5,UPI,10-11-2025,4,,NO COUPON RECORDED,Customer 385,Delhi,5
+ORD1591,Customer 361,,43,Bengaluru,Groceries,1,1464.77,20,Debit Card,17-10-2025,5,,NO COUPON RECORDED,Customer 361,Bengaluru,20
+ORD1871,Customer 81,Male,50,Delhi,Groceries,6,2635.73,15,Credit Card,19-10-2025,5,,NO COUPON RECORDED,Customer 81,Delhi,15
+ORD1349,Customer 66,Female,33,Hyderabad,Furniture,6,242.59,,Credit Card,22-01-2025,5,,NO COUPON RECORDED,Customer 66,Hyderabad,
+ORD1569,Customer 228,Female,35,Hyderabad,Groceries,6,402.36,10,Debit Card,09-05-2025,3,,NO COUPON RECORDED,Customer 228,Hyderabad,10
+ORD1073,Customer 52,Female,25,Mumbai,Furniture,7,423.1,,Debit Card,24-02-2025,2,,NO COUPON RECORDED,Customer 52,Mumbai,
+ORD1771,Customer 394,Male,27,Mumbai,Furniture,1,223.33,10,Debit Card,17-04-2025,5,,NO COUPON RECORDED,Customer 394,Mumbai,10
+ORD1837,Customer 80,Male,35,Hyderabad,Clothing,4,1442.48,,UPI,17-06-2025,4,,NO COUPON RECORDED,Customer 80,Hyderabad,
+ORD1004,Customer 173,Male,34,Chennai,Groceries,4,394.1,0,Debit Card,15-06-2025,3,,NO COUPON RECORDED,Customer 173,Chennai,0
+ORD1246,Customer 303,Female,28,Hyderabad,Electronics,4,474.49,0,UPI,18-10-2025,5,,NO COUPON RECORDED,Customer 303,Hyderabad,0
+ORD1464,Customer 3,Female,26,Chennai,Books,1,1811.65,10,UPI,11-12-2025,4,,NO COUPON RECORDED,Customer 3,Chennai,10
+ORD1593,Customer 391,Male,31,Chennai,Electronics,5,319.26,10,Cash on Delivery,02-09-2025,4,,NO COUPON RECORDED,Customer 391,Chennai,10
+ORD1157,Customer 223,Female,33,Delhi,Groceries,7,1290.22,15,Cash on Delivery,15-04-2025,2,,NO COUPON RECORDED,Customer 223,Delhi,15
+ORD1119,Customer 46,Male,21,Bengaluru,Clothing,100,1728.06,5,Debit Card,04-01-2025,3,,NO COUPON RECORDED,Customer 46,Bengaluru,5
+ORD1577,Customer 209,Female,49,,Books,7,1596.8,15,Cash on Delivery,21-09-2025,,,NO COUPON RECORDED,Customer 209,Unknown,15
+ORD1822,,Male,45,Hyderabad,Electronics,1,1613.09,10,Debit Card,22-06-2025,3,,NO COUPON RECORDED,Unknown,Hyderabad,10
+ORD1810,Customer 18,Male,37,Pune,Furniture,1,1124.29,10,Cash on Delivery,19-12-2025,,,NO COUPON RECORDED,Customer 18,Pune,10
+ORD1128,Customer 230,Female,47,Pune,Furniture,5,1745.78,20,UPI,07-03-2025,,,NO COUPON RECORDED,Customer 230,Pune,20
+ORD1796,Customer 387,Female,35,Bengaluru,Groceries,6,1506.87,15,Cash on Delivery,08-11-2025,,,NO COUPON RECORDED,Customer 387,Bengaluru,15
+ORD1468,Customer 73,Female,35,Chennai,Electronics,3,659.05,15,Credit Card,23-08-2025,,,NO COUPON RECORDED,Customer 73,Chennai,15
+ORD1724,Customer 314,Female,19,Pune,Books,3,633.85,0,Debit Card,19-04-2025,4,SAVE10,SAVE10,Customer 314,Pune,0
+ORD1065,Customer 131,Male,35,Pune,Clothing,6,1060.57,15,UPI,30-08-2025,2,,NO COUPON RECORDED,Customer 131,Pune,15
+ORD1121,Customer 267,Male,35,Mumbai,Groceries,6,425.07,5,Cash on Delivery,27-07-2025,,,NO COUPON RECORDED,Customer 267,Mumbai,5
+ORD1993,Customer 173,Female,37,Bengaluru,Electronics,5,628.58,0,Debit Card,15-05-2025,3,,NO COUPON RECORDED,Customer 173,Bengaluru,0
+ORD1638,Customer 317,Male,49,Mumbai,Books,4,1017.19,5,,17-12-2025,4,SAVE10,SAVE10,Customer 317,Mumbai,5
+ORD1820,Customer 10,Male,19,Hyderabad,Books,2,885.22,20,Debit Card,22-11-2025,2,,NO COUPON RECORDED,Customer 10,Hyderabad,20
+ORD1168,,Female,35,Hyderabad,Clothing,2,265.08,10,Cash on Delivery,21-12-2025,4,,NO COUPON RECORDED,Unknown,Hyderabad,10
+ORD1919,Customer 254,Female,24,Pune,Groceries,4,1661.18,5,Debit Card,28-11-2025,4,SAVE10,SAVE10,Customer 254,Pune,5
+ORD1761,Customer 221,Male,36,Delhi,Groceries,7,2116.56,5,UPI,07-04-2025,,,NO COUPON RECORDED,Customer 221,Delhi,5
+ORD1216,Customer 32,Female,41,Delhi,Furniture,150,3423.7,0,UPI,19-08-2025,5,SAVE10,SAVE10,Customer 32,Delhi,0
+ORD1681,Customer 55,Male,33,Mumbai,Books,1,1714.39,10,UPI,02-03-2025,,,NO COUPON RECORDED,Customer 55,Mumbai,10
+ORD1759,Customer 292,Female,26,Hyderabad,Books,5,5986.97,20,Credit Card,10-04-2025,4,,NO COUPON RECORDED,Customer 292,Hyderabad,20
+ORD1201,Customer 363,Male,31,Mumbai,Clothing,5,2842.62,15,Cash on Delivery,11-02-2025,,,NO COUPON RECORDED,Customer 363,Mumbai,15
+ORD1099,Customer 56,Male,24,Mumbai,Groceries,4,1002.52,20,Credit Card,19-09-2025,3,,NO COUPON RECORDED,Customer 56,Mumbai,20
+ORD1790,Customer 39,Female,35,Hyderabad,Clothing,3,4017.35,5,Credit Card,02-04-2025,4,,NO COUPON RECORDED,Customer 39,Hyderabad,5
+ORD1061,Customer 298,Female,35,Chennai,Furniture,6,510.68,0,Cash on Delivery,07-12-2025,,,NO COUPON RECORDED,Customer 298,Chennai,0
+ORD1990,Customer 137,Female,23,Chennai,Clothing,4,2765.77,10,Cash on Delivery,17-03-2025,2,,NO COUPON RECORDED,Customer 137,Chennai,10
+ORD1842,Customer 363,Female,45,Bengaluru,Groceries,4,1503.69,20,UPI,18-03-2025,1,,NO COUPON RECORDED,Customer 363,Bengaluru,20
+ORD1197,Customer 48,Female,25,Bengaluru,Books,3,522.77,5,Credit Card,03-06-2025,4,,NO COUPON RECORDED,Customer 48,Bengaluru,5
+ORD1512,Customer 336,Female,52,Kolkata,Electronics,3,561.01,10,,04-10-2025,1,SAVE10,SAVE10,Customer 336,Kolkata,10
+ORD1838,Customer 6,Male,16,Pune,Clothing,2,2769.37,20,Cash on Delivery,31-10-2025,4,,NO COUPON RECORDED,Customer 6,Pune,20
+ORD1770,Customer 261,Male,35,Delhi,Clothing,6,574.05,,Credit Card,30-03-2025,5,,NO COUPON RECORDED,Customer 261,Delhi,
+ORD1782,Customer 49,Male,44,Bengaluru,Clothing,4,1708.04,0,Credit Card,24-06-2025,,,NO COUPON RECORDED,Customer 49,Bengaluru,0
+ORD1391,Customer 72,Female,31,Bengaluru,Furniture,1,2938.29,10,Credit Card,20-04-2025,1,,NO COUPON RECORDED,Customer 72,Bengaluru,10
+ORD1946,Customer 389,Male,6,Hyderabad,Groceries,2,326.68,15,Debit Card,25-12-2025,5,,NO COUPON RECORDED,Customer 389,Hyderabad,15
+ORD1304,Customer 217,,49,Kolkata,Electronics,1,1160.72,0,Debit Card,04-10-2025,,,NO COUPON RECORDED,Customer 217,Kolkata,0
+ORD1671,Customer 246,Female,35,Hyderabad,Electronics,5,1257.34,,Debit Card,13-03-2025,4,,NO COUPON RECORDED,Customer 246,Hyderabad,
+ORD1147,Customer 94,Female,36,Mumbai,Clothing,3,1272.63,5,Debit Card,07-08-2025,4,,NO COUPON RECORDED,Customer 94,Mumbai,5
+ORD1362,Customer 90,Male,42,Mumbai,Furniture,4,812.54,0,UPI,27-05-2025,5,SAVE10,SAVE10,Customer 90,Mumbai,0
+ORD1264,Customer 395,Male,24,Hyderabad,Furniture,2,3060.2,15,UPI,13-12-2025,,,NO COUPON RECORDED,Customer 395,Hyderabad,15
+ORD1406,Customer 174,Male,19,Pune,Books,6,1741.54,0,Debit Card,18-12-2025,4,,NO COUPON RECORDED,Customer 174,Pune,0
+ORD1336,Customer 385,Female,43,Kolkata,Groceries,5,2297.92,15,Cash on Delivery,01-11-2025,,,NO COUPON RECORDED,Customer 385,Kolkata,15
+ORD1450,Customer 384,Male,45,Hyderabad,Electronics,2,741.78,20,UPI,07-01-2025,,,NO COUPON RECORDED,Customer 384,Hyderabad,20
+ORD1527,Customer 58,Male,31,Kolkata,Furniture,6,2408.1,10,Credit Card,28-11-2025,4,SAVE10,SAVE10,Customer 58,Kolkata,10
+ORD1995,Customer 250,,32,Chennai,Groceries,2,1962.6,,Cash on Delivery,16-06-2025,5,,NO COUPON RECORDED,Customer 250,Chennai,
+ORD1889,Customer 109,Male,33,Chennai,Electronics,7,12320.57,20,UPI,28-02-2025,4,,NO COUPON RECORDED,Customer 109,Chennai,20
+ORD1781,Customer 255,,30,Hyderabad,Electronics,4,1394.78,10,Cash on Delivery,24-07-2025,3,,NO COUPON RECORDED,Customer 255,Hyderabad,10
+ORD1674,Customer 249,Female,40,Delhi,Groceries,3,827.7,10,,23-07-2025,,,NO COUPON RECORDED,Customer 249,Delhi,10
+ORD1007,Customer 279,Female,35,Bengaluru,Books,5,1188.13,,Credit Card,10-08-2025,1,,NO COUPON RECORDED,Customer 279,Bengaluru,
+ORD1661,Customer 294,Female,39,Hyderabad,Clothing,2,1152.04,15,,03-09-2025,,,NO COUPON RECORDED,Customer 294,Hyderabad,15
+ORD1232,Customer 8,Female,24,Delhi,Electronics,5,777.76,5,Credit Card,26-12-2025,2,,NO COUPON RECORDED,Customer 8,Delhi,5
+ORD1719,Customer 240,Female,30,Delhi,Clothing,1,274.06,5,Debit Card,06-11-2025,5,,NO COUPON RECORDED,Customer 240,Delhi,5
+ORD1238,Customer 124,Male,28,Delhi,Clothing,2,273.83,15,UPI,10-03-2025,4,,NO COUPON RECORDED,Customer 124,Delhi,15
+ORD1714,Customer 368,Female,25,Delhi,Furniture,3,3415.31,20,Debit Card,06-11-2025,,,NO COUPON RECORDED,Customer 368,Delhi,20
+ORD1745,Customer 146,Female,41,Kolkata,Clothing,2,728.73,20,Debit Card,20-08-2025,,,NO COUPON RECORDED,Customer 146,Kolkata,20
+ORD1070,Customer 318,Female,29,Pune,Clothing,3,902.51,20,Credit Card,27-07-2025,,,NO COUPON RECORDED,Customer 318,Pune,20
+ORD1723,Customer 48,Female,30,Mumbai,Furniture,2,560.55,10,Debit Card,11-10-2025,,SAVE10,SAVE10,Customer 48,Mumbai,10
+ORD1713,Customer 305,Female,20,Delhi,Books,1,808.76,5,UPI,19-12-2025,4,SAVE10,SAVE10,Customer 305,Delhi,5
+ORD1458,Customer 336,Male,26,Hyderabad,Furniture,7,889.2,20,,06-05-2025,,,NO COUPON RECORDED,Customer 336,Hyderabad,20
+ORD1290,Customer 323,Male,35,Hyderabad,Clothing,6,1137.93,15,Cash on Delivery,21-05-2025,4,,NO COUPON RECORDED,Customer 323,Hyderabad,15
+ORD1034,Customer 355,Male,28,Mumbai,Furniture,5,1624.84,10,,21-12-2025,3,,NO COUPON RECORDED,Customer 355,Mumbai,10
+ORD1983,Customer 259,Female,36,Hyderabad,Groceries,5,600.87,15,Cash on Delivery,14-11-2025,,,NO COUPON RECORDED,Customer 259,Hyderabad,15
+ORD1194,Customer 383,Female,31,Bengaluru,Electronics,1,1042.01,0,Cash on Delivery,22-09-2025,4,,NO COUPON RECORDED,Customer 383,Bengaluru,0
+ORD1938,Customer 185,Female,23,Pune,Books,3,982.62,15,Debit Card,22-07-2025,3,,NO COUPON RECORDED,Customer 185,Pune,15
+ORD1961,Customer 164,Female,44,Kolkata,Furniture,6,3055.67,0,Credit Card,13-02-2025,5,,NO COUPON RECORDED,Customer 164,Kolkata,0
+ORD1048,Customer 271,Female,25,Hyderabad,Electronics,6,2725.39,5,Cash on Delivery,06-05-2025,,,NO COUPON RECORDED,Customer 271,Hyderabad,5
+ORD1270,Customer 118,Male,41,Pune,Books,1,1053.23,15,Cash on Delivery,10-09-2025,5,,NO COUPON RECORDED,Customer 118,Pune,15
+ORD1083,Customer 333,Female,23,Hyderabad,Books,6,2593.02,0,Credit Card,16-02-2025,2,,NO COUPON RECORDED,Customer 333,Hyderabad,0
+ORD1123,Customer 188,Male,29,Hyderabad,Books,6,280.54,,UPI,20-08-2025,1,SAVE10,SAVE10,Customer 188,Hyderabad,
+ORD1986,Customer 247,Female,28,Hyderabad,Furniture,1,2947.75,10,Credit Card,23-09-2025,5,,NO COUPON RECORDED,Customer 247,Hyderabad,10
+ORD1087,Customer 125,Female,21,Bengaluru,Groceries,4,1045.16,0,Credit Card,05-09-2025,4,,NO COUPON RECORDED,Customer 125,Bengaluru,0
+ORD1589,Customer 337,Male,28,Bengaluru,Furniture,1,500000,15,Debit Card,11-07-2025,4,,NO COUPON RECORDED,Customer 337,Bengaluru,15
+ORD1155,Customer 265,Female,28,,Clothing,7,5574.01,5,UPI,17-09-2025,4,SAVE10,SAVE10,Customer 265,Unknown,5
+ORD1726,Customer 288,Female,30,Kolkata,Books,6,1464.04,20,Debit Card,21-02-2025,,,NO COUPON RECORDED,Customer 288,Kolkata,20
+ORD1301,Customer 330,Male,35,Delhi,Furniture,1,1921.92,20,Credit Card,03-06-2025,4,,NO COUPON RECORDED,Customer 330,Delhi,20
+ORD1318,Customer 375,Male,35,Bengaluru,Clothing,5,613.06,15,Credit Card,18-07-2025,5,,NO COUPON RECORDED,Customer 375,Bengaluru,15
+ORD1904,Customer 184,Male,29,Mumbai,Electronics,6,1740.39,15,Cash on Delivery,28-07-2025,2,SAVE10,SAVE10,Customer 184,Mumbai,15
+ORD1649,Customer 339,Female,64,Pune,Groceries,4,729.25,0,Debit Card,22-07-2025,5,,NO COUPON RECORDED,Customer 339,Pune,0
+ORD1081,Customer 175,Female,25,Bengaluru,Groceries,5,359.58,20,Cash on Delivery,29-04-2025,,,NO COUPON RECORDED,Customer 175,Bengaluru,20
+ORD1915,Customer 183,Female,30,Delhi,Electronics,7,1460.84,20,UPI,09-09-2025,5,,NO COUPON RECORDED,Customer 183,Delhi,20
+ORD1499,Customer 170,Female,22,Pune,Books,5,599.18,10,,13-11-2025,,,NO COUPON RECORDED,Customer 170,Pune,10
+ORD1931,Customer 280,Male,31,Mumbai,Groceries,7,1438.27,15,Debit Card,26-10-2025,,,NO COUPON RECORDED,Customer 280,Mumbai,15
+ORD1939,Customer 203,,35,Mumbai,Furniture,5,1976.17,0,UPI,27-02-2025,,,NO COUPON RECORDED,Customer 203,Mumbai,0
+ORD1085,Customer 280,Female,36,Delhi,Furniture,5,859.56,20,Debit Card,25-12-2025,,,NO COUPON RECORDED,Customer 280,Delhi,20
+ORD1815,Customer 334,Male,11,Pune,Groceries,6,1073.24,,Cash on Delivery,05-08-2025,5,,NO COUPON RECORDED,Customer 334,Pune,
+ORD1971,Customer 167,Female,28,Mumbai,Furniture,6,755.61,10,,13-12-2025,4,,NO COUPON RECORDED,Customer 167,Mumbai,10
+ORD1330,Customer 219,Male,28,Bengaluru,Groceries,6,768.7,20,Credit Card,04-08-2025,5,,NO COUPON RECORDED,Customer 219,Bengaluru,20
+ORD1446,Customer 126,Female,48,Delhi,Clothing,1,446.51,15,Debit Card,01-10-2025,5,,NO COUPON RECORDED,Customer 126,Delhi,15
+ORD1328,Customer 57,Female,43,Bengaluru,Electronics,1,1506.62,5,UPI,01-09-2025,4,SAVE10,SAVE10,Customer 57,Bengaluru,5
+ORD1977,Customer 229,Male,31,Kolkata,Books,3,1333.84,,Debit Card,18-02-2025,,SAVE10,SAVE10,Customer 229,Kolkata,
+ORD1528,Customer 366,Male,24,Kolkata,Groceries,2,663.05,15,Debit Card,09-07-2025,2,,NO COUPON RECORDED,Customer 366,Kolkata,15
+ORD1880,Customer 35,Male,24,,Electronics,5,1423.74,20,Cash on Delivery,07-03-2025,5,SAVE10,SAVE10,Customer 35,Unknown,20
+ORD1235,Customer 288,Male,39,Kolkata,Furniture,7,309.34,20,Credit Card,12-06-2025,1,,NO COUPON RECORDED,Customer 288,Kolkata,20
+ORD1452,Customer 200,Male,35,Pune,Furniture,2,1420.8,5,Cash on Delivery,06-09-2025,3,,NO COUPON RECORDED,Customer 200,Pune,5
+ORD1028,Customer 218,Female,39,Hyderabad,Books,3,913.96,0,Cash on Delivery,07-10-2025,,SAVE10,SAVE10,Customer 218,Hyderabad,0
+ORD1701,Customer 246,Male,38,Bengaluru,Furniture,5,593.94,20,Credit Card,29-06-2025,,,NO COUPON RECORDED,Customer 246,Bengaluru,20
+ORD1255,Customer 58,Male,39,Hyderabad,Electronics,3,1358.61,20,Cash on Delivery,06-01-2025,5,,NO COUPON RECORDED,Customer 58,Hyderabad,20
+ORD1206,Customer 305,Female,25,Kolkata,Electronics,4,888.14,0,Credit Card,,4,,NO COUPON RECORDED,Customer 305,Kolkata,0
+ORD1210,Customer 105,Female,36,Mumbai,Furniture,6,315.87,20,Debit Card,08-03-2025,3,,NO COUPON RECORDED,Customer 105,Mumbai,20
+ORD1030,Customer 180,Male,36,Kolkata,Electronics,6,1189.7,10,UPI,19-02-2025,3,,NO COUPON RECORDED,Customer 180,Kolkata,10
+ORD1288,Customer 217,Male,29,Delhi,Furniture,1,1578.51,15,Credit Card,15-04-2025,5,SAVE10,SAVE10,Customer 217,Delhi,15
+ORD1378,Customer 152,Female,58,Delhi,Groceries,3,1013.24,20,Debit Card,03-09-2025,4,,NO COUPON RECORDED,Customer 152,Delhi,20
+ORD1249,Customer 17,Female,35,Delhi,Clothing,6,1168.81,10,Debit Card,18-02-2025,2,SAVE10,SAVE10,Customer 17,Delhi,10
+ORD1878,Customer 219,Female,15,Chennai,Electronics,6,1435.11,15,Cash on Delivery,23-06-2025,4,SAVE10,SAVE10,Customer 219,Chennai,15
+ORD1586,Customer 276,Female,31,Kolkata,Furniture,3,3666.44,20,Debit Card,23-09-2025,5,SAVE10,SAVE10,Customer 276,Kolkata,20
+ORD1932,Customer 103,Female,24,Mumbai,Furniture,2,815.86,5,Cash on Delivery,05-07-2025,,,NO COUPON RECORDED,Customer 103,Mumbai,5
+ORD1656,Customer 306,Female,47,Delhi,Electronics,2,900000,,Cash on Delivery,,4,,NO COUPON RECORDED,Customer 306,Delhi,
+ORD1359,Customer 299,Male,38,Bengaluru,Furniture,1,739.3,20,Cash on Delivery,08-09-2025,2,,NO COUPON RECORDED,Customer 299,Bengaluru,20
+ORD1555,,Male,33,Delhi,Furniture,4,666.74,15,Debit Card,28-01-2025,4,,NO COUPON RECORDED,Unknown,Delhi,15
+ORD1859,Customer 320,,44,Mumbai,Furniture,2,1527.03,5,UPI,24-04-2025,3,,NO COUPON RECORDED,Customer 320,Mumbai,5
+ORD1521,Customer 59,Female,38,Hyderabad,Books,5,7384.13,5,Cash on Delivery,09-10-2025,4,,NO COUPON RECORDED,Customer 59,Hyderabad,5
+ORD1010,Customer 211,Male,31,Delhi,Electronics,2,5355.12,0,Cash on Delivery,29-09-2025,4,SAVE10,SAVE10,Customer 211,Delhi,0
+ORD1947,Customer 54,Female,47,Delhi,Furniture,6,986.46,15,Debit Card,08-11-2025,5,,NO COUPON RECORDED,Customer 54,Delhi,15
+ORD1339,Customer 381,Male,25,Pune,Books,2,1998.87,5,Debit Card,04-10-2025,,,NO COUPON RECORDED,Customer 381,Pune,5
+ORD1145,Customer 341,Male,23,Chennai,Electronics,6,240.24,20,Credit Card,22-01-2025,4,,NO COUPON RECORDED,Customer 341,Chennai,20
+ORD1943,Customer 190,Male,27,Delhi,Groceries,4,4524.25,10,Debit Card,02-07-2025,,SAVE10,SAVE10,Customer 190,Delhi,10
+ORD1269,Customer 236,Male,35,Kolkata,Groceries,6,411,20,Credit Card,28-08-2025,3,,NO COUPON RECORDED,Customer 236,Kolkata,20
+ORD1293,Customer 133,Male,45,Delhi,Electronics,7,2273.29,20,UPI,13-11-2025,,,NO COUPON RECORDED,Customer 133,Delhi,20
+ORD1730,Customer 291,Female,59,Mumbai,Electronics,5,377.92,15,Credit Card,17-12-2025,3,,NO COUPON RECORDED,Customer 291,Mumbai,15
+ORD1092,Customer 336,Female,39,Kolkata,Furniture,6,854.22,15,Cash on Delivery,20-06-2025,,,NO COUPON RECORDED,Customer 336,Kolkata,15
+ORD1981,Customer 281,Female,26,Pune,Furniture,1,984.25,15,Debit Card,03-11-2025,5,,NO COUPON RECORDED,Customer 281,Pune,15
+ORD1103,Customer 3,Male,33,Kolkata,Clothing,7,1453.23,15,Debit Card,13-12-2025,3,,NO COUPON RECORDED,Customer 3,Kolkata,15
+ORD1923,Customer 58,Male,45,Bengaluru,Books,3,339.81,,Debit Card,18-05-2025,4,,NO COUPON RECORDED,Customer 58,Bengaluru,
+ORD1350,Customer 213,Male,39,Delhi,Groceries,2,1480.43,0,,15-08-2025,3,,NO COUPON RECORDED,Customer 213,Delhi,0
+ORD1524,Customer 128,Female,35,Bengaluru,Furniture,4,1119.65,20,Debit Card,30-08-2025,5,,NO COUPON RECORDED,Customer 128,Bengaluru,20
+ORD1266,Customer 179,Male,35,Kolkata,Books,3,626.78,20,Debit Card,07-08-2025,3,,NO COUPON RECORDED,Customer 179,Kolkata,20
+ORD1180,Customer 375,Female,31,Delhi,Clothing,1,1837.37,10,Cash on Delivery,05-12-2025,,,NO COUPON RECORDED,Customer 375,Delhi,10
+ORD1354,Customer 387,Male,29,,Clothing,5,4721.6,10,Cash on Delivery,21-11-2025,,,NO COUPON RECORDED,Customer 387,Unknown,10
+ORD1646,Customer 184,Male,36,Kolkata,Furniture,2,800000,,Debit Card,30-08-2025,4,,NO COUPON RECORDED,Customer 184,Kolkata,
+ORD1324,Customer 390,Female,31,Hyderabad,Furniture,4,914.21,10,UPI,05-03-2025,4,,NO COUPON RECORDED,Customer 390,Hyderabad,10
+ORD1766,Customer 245,Female,21,,Groceries,7,1375.58,0,Credit Card,19-11-2025,4,SAVE10,SAVE10,Customer 245,Unknown,0
+ORD1813,Customer 114,Male,43,Kolkata,Electronics,1,600.87,20,Credit Card,10-09-2025,4,,NO COUPON RECORDED,Customer 114,Kolkata,20
+ORD1944,Customer 52,Male,35,Kolkata,Electronics,4,2209.51,15,,14-08-2025,,,NO COUPON RECORDED,Customer 52,Kolkata,15
+ORD1195,Customer 35,Female,32,Mumbai,Furniture,7,5528.58,10,Credit Card,07-03-2025,4,SAVE10,SAVE10,Customer 35,Mumbai,10
+ORD1804,Customer 295,Male,36,Pune,Electronics,4,2932.06,,UPI,08-01-2025,5,,NO COUPON RECORDED,Customer 295,Pune,
+ORD1387,Customer 332,Male,54,Chennai,Clothing,3,1269.88,5,Credit Card,28-04-2025,4,,NO COUPON RECORDED,Customer 332,Chennai,5
+ORD1199,Customer 384,Female,60,Bengaluru,Books,2,1816.45,5,Debit Card,26-01-2025,3,,NO COUPON RECORDED,Customer 384,Bengaluru,5
+ORD1287,Customer 229,Male,28,Hyderabad,Books,3,1565.49,0,Credit Card,30-07-2025,4,,NO COUPON RECORDED,Customer 229,Hyderabad,0
+ORD1841,Customer 262,Male,35,Chennai,Clothing,7,461.2,5,Cash on Delivery,07-06-2025,4,,NO COUPON RECORDED,Customer 262,Chennai,5
+ORD1755,Customer 175,Male,28,Kolkata,Electronics,2,1491.39,10,Cash on Delivery,08-02-2025,5,,NO COUPON RECORDED,Customer 175,Kolkata,10
+ORD1722,Customer 338,Female,44,Hyderabad,Clothing,1,1481.57,5,UPI,13-09-2025,5,,NO COUPON RECORDED,Customer 338,Hyderabad,5
+ORD1091,Customer 322,,36,Bengaluru,Furniture,2,1132.6,0,UPI,02-10-2025,,,NO COUPON RECORDED,Customer 322,Bengaluru,0
+ORD1190,Customer 273,Male,50,Chennai,Books,5,1425.99,0,UPI,,4,,NO COUPON RECORDED,Customer 273,Chennai,0
+ORD1144,Customer 397,Male,35,Bengaluru,Furniture,6,674.05,,,25-01-2025,,,NO COUPON RECORDED,Customer 397,Bengaluru,
+ORD1767,Customer 192,Male,30,Pune,Electronics,7,295.45,,Cash on Delivery,11-10-2025,4,,NO COUPON RECORDED,Customer 192,Pune,
+ORD1587,Customer 40,,21,Delhi,Furniture,1,2378.06,10,Cash on Delivery,01-04-2025,,,NO COUPON RECORDED,Customer 40,Delhi,10
+ORD1263,Customer 370,Female,30,Hyderabad,Books,1,380.76,10,UPI,12-09-2025,,,NO COUPON RECORDED,Customer 370,Hyderabad,10
+ORD1639,Customer 379,Male,40,Delhi,Clothing,2,186.38,0,UPI,02-04-2025,4,,NO COUPON RECORDED,Customer 379,Delhi,0
+ORD1610,Customer 333,Female,45,Kolkata,Groceries,7,550000,20,Credit Card,28-01-2025,4,,NO COUPON RECORDED,Customer 333,Kolkata,20
+ORD1581,,Male,41,Bengaluru,Electronics,2,1346.37,,Credit Card,14-05-2025,2,SAVE10,SAVE10,Unknown,Bengaluru,
+ORD1850,Customer 392,,44,Mumbai,Groceries,4,3383.82,15,Credit Card,25-04-2025,5,SAVE10,SAVE10,Customer 392,Mumbai,15
+ORD1477,Customer 8,Male,34,Bengaluru,Furniture,7,474.25,0,Cash on Delivery,30-03-2025,2,,NO COUPON RECORDED,Customer 8,Bengaluru,0
+ORD1518,Customer 190,Male,35,Pune,Furniture,3,1049.05,20,Debit Card,04-03-2025,5,,NO COUPON RECORDED,Customer 190,Pune,20
+ORD1742,Customer 254,Male,33,Bengaluru,Furniture,5,1163.19,20,Debit Card,08-04-2025,,,NO COUPON RECORDED,Customer 254,Bengaluru,20
+ORD1802,,Male,63,Mumbai,Electronics,4,508.37,15,Debit Card,25-03-2025,2,,NO COUPON RECORDED,Unknown,Mumbai,15
+ORD1243,Customer 260,Male,44,Pune,Groceries,1,233.67,20,Credit Card,16-03-2025,4,SAVE10,SAVE10,Customer 260,Pune,20
+ORD1086,Customer 39,Female,59,Kolkata,Clothing,7,1567.39,20,Debit Card,06-08-2025,2,,NO COUPON RECORDED,Customer 39,Kolkata,20
+ORD1733,Customer 309,Female,24,Kolkata,Clothing,4,373.76,,UPI,01-11-2025,,,NO COUPON RECORDED,Customer 309,Kolkata,
+ORD1393,Customer 240,Female,31,Mumbai,Electronics,1,926.51,5,Cash on Delivery,11-04-2025,4,,NO COUPON RECORDED,Customer 240,Mumbai,5
+ORD1101,Customer 80,Male,49,Bengaluru,Groceries,2,944.44,15,Cash on Delivery,19-09-2025,3,,NO COUPON RECORDED,Customer 80,Bengaluru,15
+ORD1227,Customer 232,Female,54,Delhi,Clothing,2,5076.35,5,Debit Card,30-01-2025,2,,NO COUPON RECORDED,Customer 232,Delhi,5
+ORD1039,Customer 253,Female,42,Bengaluru,Groceries,1,2319.53,15,Credit Card,06-03-2025,3,,NO COUPON RECORDED,Customer 253,Bengaluru,15
+ORD1376,Customer 294,Female,30,Delhi,Books,4,563.74,,Cash on Delivery,23-04-2025,1,,NO COUPON RECORDED,Customer 294,Delhi,
+ORD1175,Customer 185,Male,15,Mumbai,Books,2,2089.92,20,Debit Card,24-04-2025,5,,NO COUPON RECORDED,Customer 185,Mumbai,20
+ORD1016,Customer 205,Male,35,Delhi,Furniture,3,782.84,10,Credit Card,06-01-2025,4,,NO COUPON RECORDED,Customer 205,Delhi,10
+ORD1718,Customer 95,Male,41,Delhi,Books,4,999.29,10,Credit Card,15-07-2025,5,,NO COUPON RECORDED,Customer 95,Delhi,10
+ORD1614,Customer 274,Male,33,Chennai,Electronics,6,507.7,10,,09-12-2025,5,SAVE10,SAVE10,Customer 274,Chennai,10
+ORD1692,Customer 372,Female,36,Pune,Electronics,4,492.76,10,,16-03-2025,,,NO COUPON RECORDED,Customer 372,Pune,10
+ORD1461,Customer 56,Male,42,Delhi,Electronics,7,353.96,10,Debit Card,21-06-2025,1,,NO COUPON RECORDED,Customer 56,Delhi,10
+ORD1890,Customer 40,Male,45,Hyderabad,Clothing,2,618.51,5,UPI,05-01-2025,3,,NO COUPON RECORDED,Customer 40,Hyderabad,5
+ORD1821,Customer 266,Female,38,Hyderabad,Electronics,5,775.31,10,Cash on Delivery,14-01-2025,3,,NO COUPON RECORDED,Customer 266,Hyderabad,10
+ORD1177,Customer 65,Male,35,,Clothing,7,3549.16,,Debit Card,23-08-2025,5,,NO COUPON RECORDED,Customer 65,Unknown,
+ORD1136,Customer 241,Female,40,Delhi,Furniture,2,1946.68,15,UPI,16-04-2025,5,,NO COUPON RECORDED,Customer 241,Delhi,15
+ORD1080,Customer 376,Female,40,Kolkata,Electronics,6,1650.06,10,UPI,06-11-2025,4,,NO COUPON RECORDED,Customer 376,Kolkata,10
+ORD1126,Customer 32,Female,37,Delhi,Electronics,1,925.9,5,Cash on Delivery,13-01-2025,,,NO COUPON RECORDED,Customer 32,Delhi,5
+ORD1118,Customer 98,Female,31,Mumbai,Groceries,4,596.64,0,Debit Card,29-07-2025,4,SAVE10,SAVE10,Customer 98,Mumbai,0
+ORD1443,Customer 195,Male,31,Pune,Furniture,1,415.91,10,Cash on Delivery,11-08-2025,,,NO COUPON RECORDED,Customer 195,Pune,10
+ORD1548,Customer 206,Male,37,Bengaluru,Furniture,1,1989.16,10,Cash on Delivery,15-05-2025,5,,NO COUPON RECORDED,Customer 206,Bengaluru,10
+ORD1891,Customer 284,Male,39,Kolkata,Electronics,7,1188.1,20,Cash on Delivery,01-09-2025,,,NO COUPON RECORDED,Customer 284,Kolkata,20
+ORD1429,Customer 286,Female,41,Chennai,Groceries,5,1503.95,20,Credit Card,20-12-2025,3,,NO COUPON RECORDED,Customer 286,Chennai,20
+ORD1678,Customer 209,Female,36,Bengaluru,Furniture,4,3551.09,5,UPI,22-06-2025,3,,NO COUPON RECORDED,Customer 209,Bengaluru,5
+ORD1095,Customer 116,Male,30,Kolkata,Electronics,2,3845.14,15,UPI,21-05-2025,,SAVE10,SAVE10,Customer 116,Kolkata,15
+ORD1574,Customer 3,Male,35,Pune,Groceries,1,3442.08,10,Cash on Delivery,21-04-2025,,,NO COUPON RECORDED,Customer 3,Pune,10
+ORD1192,Customer 243,Male,21,Bengaluru,Groceries,4,540.91,5,Credit Card,28-03-2025,4,,NO COUPON RECORDED,Customer 243,Bengaluru,5
+ORD1866,Customer 328,Male,39,Hyderabad,Groceries,2,889.68,,Debit Card,20-02-2025,4,,NO COUPON RECORDED,Customer 328,Hyderabad,
+ORD1502,Customer 385,Male,17,Kolkata,Clothing,1,1452.51,20,Cash on Delivery,02-02-2025,2,,NO COUPON RECORDED,Customer 385,Kolkata,20
+ORD1108,Customer 189,Female,37,Hyderabad,Clothing,7,2187.41,,UPI,29-07-2025,2,,NO COUPON RECORDED,Customer 189,Hyderabad,
+ORD1669,Customer 53,Female,17,Pune,Furniture,6,919.91,,Cash on Delivery,16-02-2025,2,,NO COUPON RECORDED,Customer 53,Pune,
+ORD1550,Customer 321,Male,48,Chennai,Groceries,1,1425,10,Cash on Delivery,04-05-2025,4,,NO COUPON RECORDED,Customer 321,Chennai,10
+ORD1204,Customer 183,Female,16,Delhi,Electronics,1,956.08,20,UPI,07-07-2025,5,,NO COUPON RECORDED,Customer 183,Delhi,20
+ORD1668,Customer 367,Female,46,Pune,Books,6,1554.68,5,Credit Card,15-02-2025,5,,NO COUPON RECORDED,Customer 367,Pune,5
+ORD1211,Customer 287,,39,Kolkata,Books,5,4153.97,5,Cash on Delivery,25-07-2025,2,,NO COUPON RECORDED,Customer 287,Kolkata,5
+ORD1357,,Male,37,Kolkata,Books,2,1134.67,15,Cash on Delivery,25-12-2025,4,,NO COUPON RECORDED,Unknown,Kolkata,15
+ORD1124,Customer 342,Female,35,Pune,Furniture,1,2301.89,20,Credit Card,05-09-2025,1,,NO COUPON RECORDED,Customer 342,Pune,20
+ORD1523,Customer 330,Male,29,Hyderabad,Electronics,5,791.41,0,UPI,17-08-2025,2,,NO COUPON RECORDED,Customer 330,Hyderabad,0
+ORD1592,Customer 96,Male,34,Delhi,Groceries,4,370.45,0,UPI,23-05-2025,,,NO COUPON RECORDED,Customer 96,Delhi,0
+ORD1041,Customer 303,Female,43,Delhi,Groceries,2,860.44,,Cash on Delivery,30-08-2025,4,,NO COUPON RECORDED,Customer 303,Delhi,
+ORD1312,Customer 48,Female,33,Hyderabad,Groceries,4,279.58,0,UPI,02-04-2025,,SAVE10,SAVE10,Customer 48,Hyderabad,0
+ORD1879,Customer 252,Male,35,Hyderabad,Groceries,4,163.62,20,Credit Card,30-12-2025,5,,NO COUPON RECORDED,Customer 252,Hyderabad,20
+ORD1005,Customer 343,Female,37,Delhi,Furniture,2,1670.64,15,Cash on Delivery,19-04-2025,,,NO COUPON RECORDED,Customer 343,Delhi,15
+ORD1064,Customer 164,Female,37,Pune,Electronics,3,3472.57,20,Cash on Delivery,,4,,NO COUPON RECORDED,Customer 164,Pune,20
+ORD1046,Customer 178,Male,18,Kolkata,Books,1,198.34,10,UPI,24-07-2025,3,,NO COUPON RECORDED,Customer 178,Kolkata,10
+ORD1846,Customer 63,Male,35,Mumbai,Groceries,2,2024.24,10,Credit Card,01-02-2025,2,,NO COUPON RECORDED,Customer 63,Mumbai,10
+ORD1045,Customer 388,Male,30,,Books,7,1787.54,15,UPI,21-04-2025,,,NO COUPON RECORDED,Customer 388,Unknown,15
+ORD1415,Customer 271,Female,32,Delhi,Clothing,3,169.47,5,Debit Card,22-08-2025,5,,NO COUPON RECORDED,Customer 271,Delhi,5
+ORD1847,Customer 21,Female,37,Pune,Clothing,4,905.42,5,UPI,,4,,NO COUPON RECORDED,Customer 21,Pune,5
+ORD1422,Customer 306,Female,26,Delhi,Groceries,3,371.28,5,Cash on Delivery,04-07-2025,4,,NO COUPON RECORDED,Customer 306,Delhi,5
+ORD1003,Customer 176,Female,32,Bengaluru,Electronics,5,1194.79,,Credit Card,02-10-2025,3,SAVE10,SAVE10,Customer 176,Bengaluru,
+ORD1709,Customer 186,Male,45,Mumbai,Clothing,5,1400.05,5,Debit Card,04-11-2025,,,NO COUPON RECORDED,Customer 186,Mumbai,5
+ORD1526,Customer 369,Male,24,Kolkata,Groceries,4,597.11,10,UPI,10-08-2025,,,NO COUPON RECORDED,Customer 369,Kolkata,10
+ORD1773,Customer 287,Male,31,Kolkata,Groceries,5,700000,5,Debit Card,19-06-2025,5,,NO COUPON RECORDED,Customer 287,Kolkata,5
+ORD1637,Customer 119,Female,32,Chennai,Furniture,7,1032.97,20,UPI,09-01-2025,,,NO COUPON RECORDED,Customer 119,Chennai,20
+ORD1321,Customer 43,,55,Bengaluru,Furniture,5,661.52,,Cash on Delivery,01-10-2025,4,,NO COUPON RECORDED,Customer 43,Bengaluru,
+ORD1677,Customer 34,Male,20,Kolkata,Furniture,1,3044.76,15,Credit Card,,5,,NO COUPON RECORDED,Customer 34,Kolkata,15
+ORD1849,Customer 242,Male,42,Chennai,Furniture,3,509.4,5,Credit Card,01-09-2025,5,,NO COUPON RECORDED,Customer 242,Chennai,5
+ORD1543,Customer 70,Female,36,Chennai,Furniture,1,4275.41,15,UPI,23-09-2025,5,,NO COUPON RECORDED,Customer 70,Chennai,15
+ORD1466,Customer 67,Female,19,Mumbai,Clothing,7,367.05,0,Cash on Delivery,02-11-2025,5,SAVE10,SAVE10,Customer 67,Mumbai,0
+ORD1247,Customer 166,Male,8,Bengaluru,Clothing,6,1787.68,0,UPI,19-10-2025,,,NO COUPON RECORDED,Customer 166,Bengaluru,0
+ORD1793,Customer 330,Male,23,Delhi,Books,4,422.43,15,Debit Card,29-12-2025,5,,NO COUPON RECORDED,Customer 330,Delhi,15
+ORD1910,Customer 308,Male,53,Delhi,Books,3,214.67,5,UPI,15-12-2025,,,NO COUPON RECORDED,Customer 308,Delhi,5
+ORD1400,Customer 399,Female,48,,Furniture,7,505.73,20,Cash on Delivery,01-10-2025,,SAVE10,SAVE10,Customer 399,Unknown,20
+ORD1347,Customer 374,Female,41,Mumbai,Groceries,1,1584.34,10,Cash on Delivery,03-11-2025,5,,NO COUPON RECORDED,Customer 374,Mumbai,10
+ORD1358,Customer 37,Male,45,Delhi,Furniture,5,4559.56,10,Cash on Delivery,18-12-2025,3,,NO COUPON RECORDED,Customer 37,Delhi,10
+ORD1623,Customer 167,Male,21,,Books,6,711.03,5,Credit Card,21-11-2025,,,NO COUPON RECORDED,Customer 167,Unknown,5
+ORD1902,Customer 88,Female,37,Delhi,Groceries,3,3725.1,0,Debit Card,05-09-2025,5,,NO COUPON RECORDED,Customer 88,Delhi,0
+ORD1078,Customer 226,Male,26,Mumbai,Furniture,4,1697.15,15,Cash on Delivery,07-05-2025,,,NO COUPON RECORDED,Customer 226,Mumbai,15
+ORD1109,Customer 282,Male,48,Bengaluru,Electronics,3,571.73,15,Cash on Delivery,28-06-2025,4,,NO COUPON RECORDED,Customer 282,Bengaluru,15
+ORD1585,Customer 370,Male,29,Bengaluru,Electronics,6,1001.81,0,UPI,08-09-2025,3,,NO COUPON RECORDED,Customer 370,Bengaluru,0
+ORD1111,Customer 312,Male,35,Pune,Electronics,2,1453.31,20,Debit Card,13-08-2025,,,NO COUPON RECORDED,Customer 312,Pune,20
+ORD1410,,Male,37,Chennai,Clothing,5,362.78,5,UPI,03-03-2025,3,SAVE10,SAVE10,Unknown,Chennai,5
+ORD1453,Customer 10,Male,33,Delhi,Groceries,3,2947.25,10,UPI,30-01-2025,4,,NO COUPON RECORDED,Customer 10,Delhi,10
+ORD1102,Customer 322,Female,35,Kolkata,Furniture,2,3120.04,10,Credit Card,13-06-2025,5,,NO COUPON RECORDED,Customer 322,Kolkata,10
+ORD1867,Customer 335,Female,35,Chennai,Clothing,3,647.04,5,Credit Card,15-04-2025,4,,NO COUPON RECORDED,Customer 335,Chennai,5
+ORD1829,Customer 12,Female,32,Kolkata,Groceries,1,816.02,15,,,3,,NO COUPON RECORDED,Customer 12,Kolkata,15
+ORD1972,Customer 191,Female,27,Hyderabad,Books,3,633.66,10,UPI,19-06-2025,5,,NO COUPON RECORDED,Customer 191,Hyderabad,10
+ORD1620,Customer 174,Male,44,Kolkata,Groceries,6,2233.96,5,Cash on Delivery,24-02-2025,4,SAVE10,SAVE10,Customer 174,Kolkata,5
+ORD1566,Customer 91,Female,23,Chennai,Electronics,1,2463.48,15,Credit Card,02-06-2025,1,,NO COUPON RECORDED,Customer 91,Chennai,15
+ORD1437,Customer 371,Female,29,Delhi,Electronics,4,4152.17,5,Debit Card,05-10-2025,,,NO COUPON RECORDED,Customer 371,Delhi,5
+ORD1888,Customer 7,Male,28,,Groceries,3,513.81,15,UPI,01-11-2025,4,,NO COUPON RECORDED,Customer 7,Unknown,15
+ORD1895,Customer 245,Female,49,Bengaluru,Books,6,769.72,5,Credit Card,16-07-2025,5,SAVE10,SAVE10,Customer 245,Bengaluru,5
+ORD1615,Customer 256,Male,41,Pune,Books,3,973.14,10,Credit Card,02-05-2025,3,,NO COUPON RECORDED,Customer 256,Pune,10
+ORD1803,Customer 367,Male,30,Bengaluru,Groceries,1,3381.95,0,Credit Card,21-07-2025,4,,NO COUPON RECORDED,Customer 367,Bengaluru,0
+ORD1769,Customer 151,Male,21,Mumbai,Books,1,1414.64,20,Credit Card,14-11-2025,4,,NO COUPON RECORDED,Customer 151,Mumbai,20
+ORD1955,Customer 244,Male,16,Chennai,Groceries,4,808.88,10,UPI,14-09-2025,,,NO COUPON RECORDED,Customer 244,Chennai,10
+ORD1214,Customer 295,Male,44,Hyderabad,Books,7,880.78,0,Credit Card,15-02-2025,4,,NO COUPON RECORDED,Customer 295,Hyderabad,0
+ORD1137,Customer 13,Male,24,Delhi,Electronics,2,423.15,,Credit Card,24-11-2025,,,NO COUPON RECORDED,Customer 13,Delhi,
+ORD1598,Customer 251,Female,29,Hyderabad,Furniture,6,958.01,15,Debit Card,03-05-2025,5,,NO COUPON RECORDED,Customer 251,Hyderabad,15
+ORD1712,,Female,32,Kolkata,Furniture,3,1377.6,,Credit Card,12-02-2025,,,NO COUPON RECORDED,Unknown,Kolkata,
+ORD1928,Customer 167,Male,29,Hyderabad,Electronics,6,766.4,20,Credit Card,24-01-2025,4,,NO COUPON RECORDED,Customer 167,Hyderabad,20
+ORD1427,Customer 321,Female,16,Mumbai,Groceries,6,1105.74,15,Credit Card,15-12-2025,5,,NO COUPON RECORDED,Customer 321,Mumbai,15
+ORD1529,,Female,38,Bengaluru,Groceries,4,565.04,20,Debit Card,29-08-2025,5,,NO COUPON RECORDED,Unknown,Bengaluru,20
+ORD1522,Customer 77,Male,37,,Electronics,5,1040.07,5,Cash on Delivery,07-02-2025,5,,NO COUPON RECORDED,Customer 77,Unknown,5
+ORD1134,Customer 318,Female,41,Mumbai,Electronics,6,3311.06,5,Cash on Delivery,31-05-2025,,,NO COUPON RECORDED,Customer 318,Mumbai,5
+ORD1381,Customer 374,Male,44,Pune,Furniture,7,859.29,0,Debit Card,20-10-2025,3,,NO COUPON RECORDED,Customer 374,Pune,0
+ORD1799,Customer 177,Female,23,Pune,Electronics,1,2261.84,5,Debit Card,02-04-2025,5,,NO COUPON RECORDED,Customer 177,Pune,5
+ORD1978,Customer 140,Male,17,Chennai,Groceries,7,1049.03,10,Debit Card,23-08-2025,,,NO COUPON RECORDED,Customer 140,Chennai,10
+ORD1563,Customer 73,Female,41,Delhi,Books,4,631.27,0,Debit Card,17-10-2025,3,,NO COUPON RECORDED,Customer 73,Delhi,0
+ORD1146,Customer 14,Female,35,Delhi,Groceries,4,1439.01,20,Cash on Delivery,23-06-2025,1,,NO COUPON RECORDED,Customer 14,Delhi,20
+ORD1469,,Male,31,Mumbai,Furniture,3,1417.76,5,Cash on Delivery,09-05-2025,,,NO COUPON RECORDED,Unknown,Mumbai,5
+ORD1557,Customer 350,Female,31,Pune,Books,3,1559.22,,Debit Card,05-09-2025,4,,NO COUPON RECORDED,Customer 350,Pune,
+ORD1237,Customer 173,Male,35,Mumbai,Electronics,3,454.66,0,Debit Card,04-08-2025,3,,NO COUPON RECORDED,Customer 173,Mumbai,0
+ORD1798,Customer 126,Male,34,,Books,7,642.46,5,Debit Card,07-08-2025,,,NO COUPON RECORDED,Customer 126,Unknown,5
+ORD1606,Customer 129,,35,Mumbai,Clothing,4,6368.24,10,UPI,20-11-2025,1,,NO COUPON RECORDED,Customer 129,Mumbai,10
+ORD1818,Customer 266,Male,47,Kolkata,Clothing,4,663.91,15,Credit Card,17-05-2025,5,,NO COUPON RECORDED,Customer 266,Kolkata,15
+ORD1613,Customer 154,Female,47,Bengaluru,Clothing,1,345.59,20,Debit Card,18-05-2025,1,SAVE10,SAVE10,Customer 154,Bengaluru,20
+ORD1705,Customer 226,Female,36,,Clothing,3,673.65,0,Credit Card,06-04-2025,3,,NO COUPON RECORDED,Customer 226,Unknown,0
+ORD1982,Customer 219,Male,55,Bengaluru,Furniture,5,1992.48,5,Cash on Delivery,08-02-2025,4,,NO COUPON RECORDED,Customer 219,Bengaluru,5
+ORD1105,Customer 314,Male,33,Delhi,Groceries,3,376.69,10,Cash on Delivery,27-07-2025,4,,NO COUPON RECORDED,Customer 314,Delhi,10
+ORD1163,Customer 163,Female,26,Mumbai,Electronics,7,1569.5,5,Cash on Delivery,24-03-2025,2,,NO COUPON RECORDED,Customer 163,Mumbai,5
+ORD1573,Customer 20,Female,32,Kolkata,Groceries,4,6575.23,,,12-09-2025,3,,NO COUPON RECORDED,Customer 20,Kolkata,
+ORD1407,Customer 58,Female,35,Kolkata,Furniture,6,981.97,0,Credit Card,01-09-2025,,,NO COUPON RECORDED,Customer 58,Kolkata,0
+ORD1127,Customer 306,Female,28,Bengaluru,Groceries,7,1522.03,0,,01-06-2025,4,,NO COUPON RECORDED,Customer 306,Bengaluru,0
+ORD1539,Customer 9,Female,14,Mumbai,Electronics,1,479.25,10,Debit Card,25-07-2025,,,NO COUPON RECORDED,Customer 9,Mumbai,10
+ORD1772,Customer 2,Male,36,Bengaluru,Books,1,1690.01,20,Cash on Delivery,14-07-2025,,,NO COUPON RECORDED,Customer 2,Bengaluru,20
+ORD1721,Customer 372,Female,34,Delhi,Electronics,6,3510.85,15,Debit Card,11-01-2025,2,,NO COUPON RECORDED,Customer 372,Delhi,15
+ORD1542,Customer 78,Male,36,Chennai,Furniture,1,1323.03,20,Debit Card,04-05-2025,4,,NO COUPON RECORDED,Customer 78,Chennai,20
+ORD1389,Customer 62,Female,31,Hyderabad,Books,1,862.43,15,Credit Card,27-11-2025,,,NO COUPON RECORDED,Customer 62,Hyderabad,15
+ORD1094,Customer 359,Male,50,Mumbai,Books,4,525.12,15,Debit Card,18-07-2025,,,NO COUPON RECORDED,Customer 359,Mumbai,15
+ORD1651,Customer 261,Male,38,Delhi,Furniture,7,2183.08,5,Cash on Delivery,03-04-2025,,,NO COUPON RECORDED,Customer 261,Delhi,5
+ORD1031,Customer 91,Male,36,Delhi,Books,7,354.21,5,Cash on Delivery,15-06-2025,5,,NO COUPON RECORDED,Customer 91,Delhi,5
+ORD1635,Customer 274,Female,48,Bengaluru,Groceries,2,1528.78,15,Cash on Delivery,12-11-2025,5,SAVE10,SAVE10,Customer 274,Bengaluru,15
+ORD1579,Customer 41,Female,35,Hyderabad,Clothing,3,2787.86,15,Credit Card,05-03-2025,,,NO COUPON RECORDED,Customer 41,Hyderabad,15
+ORD1377,Customer 298,Female,25,Kolkata,Groceries,6,1245.48,5,Credit Card,26-01-2025,,,NO COUPON RECORDED,Customer 298,Kolkata,5
+ORD1922,Customer 179,Female,40,Delhi,Furniture,4,1177.5,5,Debit Card,03-02-2025,3,,NO COUPON RECORDED,Customer 179,Delhi,5
+ORD1673,Customer 38,Female,20,Kolkata,Groceries,6,4819.04,10,Credit Card,21-08-2025,4,,NO COUPON RECORDED,Customer 38,Kolkata,10
+ORD1112,Customer 222,Male,49,Pune,Clothing,2,969.49,20,Cash on Delivery,31-05-2025,5,,NO COUPON RECORDED,Customer 222,Pune,20
+ORD1973,Customer 190,Male,22,Hyderabad,Books,3,3780.73,,Debit Card,24-12-2025,2,,NO COUPON RECORDED,Customer 190,Hyderabad,
+ORD1132,Customer 37,Female,47,Chennai,Books,1,401.48,10,Credit Card,25-12-2025,4,,NO COUPON RECORDED,Customer 37,Chennai,10
+ORD1152,Customer 367,Male,25,Delhi,Furniture,6,1167.66,0,Debit Card,09-08-2025,5,,NO COUPON RECORDED,Customer 367,Delhi,0
+ORD1617,Customer 107,Female,34,Kolkata,Furniture,1,697.18,5,Cash on Delivery,09-04-2025,5,,NO COUPON RECORDED,Customer 107,Kolkata,5
+ORD1778,Customer 109,Male,27,Mumbai,Clothing,4,2691.09,10,Credit Card,28-10-2025,3,,NO COUPON RECORDED,Customer 109,Mumbai,10
+ORD1898,Customer 29,Female,37,Bengaluru,Groceries,4,1728.01,,Cash on Delivery,12-08-2025,4,,NO COUPON RECORDED,Customer 29,Bengaluru,
+ORD1514,Customer 383,Male,41,Hyderabad,Books,3,2950.24,20,UPI,12-02-2025,5,,NO COUPON RECORDED,Customer 383,Hyderabad,20
+ORD1447,Customer 382,Female,49,Pune,Clothing,1,1416.07,20,Debit Card,30-06-2025,4,SAVE10,SAVE10,Customer 382,Pune,20
+ORD1261,Customer 69,Female,41,Hyderabad,Clothing,7,1024.04,10,UPI,18-03-2025,,SAVE10,SAVE10,Customer 69,Hyderabad,10
+ORD1294,Customer 218,Female,36,Hyderabad,Groceries,4,1011.69,20,UPI,11-07-2025,4,SAVE10,SAVE10,Customer 218,Hyderabad,20
+ORD1209,Customer 311,Female,27,Mumbai,Electronics,2,373.59,0,Credit Card,18-01-2025,,,NO COUPON RECORDED,Customer 311,Mumbai,0
+ORD1665,,Male,36,Hyderabad,Furniture,4,267.28,5,Debit Card,29-10-2025,4,,NO COUPON RECORDED,Unknown,Hyderabad,5
+ORD1478,Customer 265,Male,38,Pune,Electronics,4,477,0,Cash on Delivery,25-12-2025,,,NO COUPON RECORDED,Customer 265,Pune,0
+ORD1409,Customer 6,Male,41,Kolkata,Clothing,3,957.5,0,,30-11-2025,5,,NO COUPON RECORDED,Customer 6,Kolkata,0
+ORD1687,Customer 237,Male,33,Hyderabad,Books,3,2391.62,15,UPI,06-03-2025,4,,NO COUPON RECORDED,Customer 237,Hyderabad,15
+ORD1159,Customer 313,Male,53,Hyderabad,Books,7,707.97,,Cash on Delivery,26-08-2025,4,,NO COUPON RECORDED,Customer 313,Hyderabad,
+ORD1488,Customer 306,Male,34,Kolkata,Books,1,1309.11,15,UPI,13-05-2025,1,,NO COUPON RECORDED,Customer 306,Kolkata,15
+ORD1643,Customer 192,Female,35,Kolkata,Books,2,3404.08,20,Cash on Delivery,27-10-2025,5,,NO COUPON RECORDED,Customer 192,Kolkata,20
+ORD1097,Customer 273,Female,29,Pune,Groceries,5,380.36,20,Debit Card,29-04-2025,,SAVE10,SAVE10,Customer 273,Pune,20
+ORD1093,Customer 155,Male,33,Kolkata,Clothing,2,308.44,15,Credit Card,12-09-2025,1,SAVE10,SAVE10,Customer 155,Kolkata,15
+ORD1333,Customer 332,Female,36,Mumbai,Groceries,1,1758.57,20,Debit Card,28-10-2025,3,,NO COUPON RECORDED,Customer 332,Mumbai,20
+ORD1740,Customer 327,Male,38,Bengaluru,Furniture,4,2563.72,0,,28-10-2025,,,NO COUPON RECORDED,Customer 327,Bengaluru,0
+ORD1279,Customer 34,Female,31,Kolkata,Clothing,5,877.78,5,Credit Card,20-07-2025,3,,NO COUPON RECORDED,Customer 34,Kolkata,5
+ORD1465,Customer 386,Male,26,Delhi,Furniture,1,305.27,15,Debit Card,11-05-2025,,,NO COUPON RECORDED,Customer 386,Delhi,15
+ORD1186,Customer 67,Male,29,Mumbai,Electronics,1,2844.88,20,Credit Card,14-08-2025,4,,NO COUPON RECORDED,Customer 67,Mumbai,20
+ORD1716,Customer 207,Female,47,Mumbai,Groceries,1,1182.58,10,Cash on Delivery,28-04-2025,,,NO COUPON RECORDED,Customer 207,Mumbai,10
+ORD1449,Customer 115,Male,57,Kolkata,Electronics,7,1390.07,0,Debit Card,29-03-2025,5,,NO COUPON RECORDED,Customer 115,Kolkata,0
+ORD1552,Customer 331,Female,16,Kolkata,Clothing,1,823.84,0,,25-10-2025,1,,NO COUPON RECORDED,Customer 331,Kolkata,0
+ORD1224,Customer 288,Male,45,Pune,Books,1,1805.57,15,Credit Card,08-10-2025,4,,NO COUPON RECORDED,Customer 288,Pune,15
+ORD1014,Customer 287,Female,20,Delhi,Books,4,2656.61,0,Credit Card,31-08-2025,,,NO COUPON RECORDED,Customer 287,Delhi,0
+ORD1170,Customer 43,Female,35,Bengaluru,Furniture,3,2379.38,15,Debit Card,24-12-2025,2,,NO COUPON RECORDED,Customer 43,Bengaluru,15
+ORD1558,Customer 317,Female,46,Mumbai,Groceries,5,2856.36,5,Debit Card,05-07-2025,4,,NO COUPON RECORDED,Customer 317,Mumbai,5
+ORD1571,Customer 167,,26,Kolkata,Furniture,4,2244.36,10,Debit Card,30-05-2025,2,,NO COUPON RECORDED,Customer 167,Kolkata,10
+ORD1115,Customer 227,Male,39,,Books,4,652.46,10,Cash on Delivery,16-10-2025,5,,NO COUPON RECORDED,Customer 227,Unknown,10
+ORD1537,Customer 47,Male,33,Delhi,Electronics,5,475.55,0,UPI,05-10-2025,4,,NO COUPON RECORDED,Customer 47,Delhi,0
+ORD1682,Customer 384,Male,28,Bengaluru,Clothing,1,655.75,,UPI,10-02-2025,5,,NO COUPON RECORDED,Customer 384,Bengaluru,
+ORD1498,Customer 370,Male,35,Bengaluru,Groceries,2,348.15,5,Credit Card,17-02-2025,5,,NO COUPON RECORDED,Customer 370,Bengaluru,5
+ORD1019,Customer 180,Male,21,Kolkata,Clothing,6,1064.01,10,Debit Card,07-08-2025,3,,NO COUPON RECORDED,Customer 180,Kolkata,10
+ORD1107,Customer 266,Female,26,Pune,Furniture,4,838.87,20,Debit Card,18-04-2025,3,,NO COUPON RECORDED,Customer 266,Pune,20
+ORD1139,Customer 175,Female,21,Mumbai,Books,1,2166.11,,UPI,29-11-2025,4,,NO COUPON RECORDED,Customer 175,Mumbai,
+ORD1584,Customer 162,Female,28,Pune,Groceries,1,1257.35,20,Cash on Delivery,22-06-2025,3,,NO COUPON RECORDED,Customer 162,Pune,20
+ORD1236,Customer 265,Male,34,Mumbai,Books,1,1105.05,10,Cash on Delivery,25-09-2025,4,,NO COUPON RECORDED,Customer 265,Mumbai,10
+ORD1479,Customer 44,Male,58,Hyderabad,Groceries,4,331.18,10,Cash on Delivery,12-07-2025,5,,NO COUPON RECORDED,Customer 44,Hyderabad,10
+ORD1642,Customer 341,,31,Delhi,Furniture,1,964.65,0,Debit Card,16-08-2025,4,,NO COUPON RECORDED,Customer 341,Delhi,0
+ORD1355,Customer 396,Male,35,Pune,Clothing,3,414.67,5,Credit Card,20-07-2025,3,,NO COUPON RECORDED,Customer 396,Pune,5
+ORD1877,Customer 298,Female,22,Chennai,Electronics,5,5844.96,5,Cash on Delivery,15-07-2025,4,,NO COUPON RECORDED,Customer 298,Chennai,5
+ORD1370,Customer 134,Female,42,Bengaluru,Clothing,5,849.56,,Credit Card,22-12-2025,3,,NO COUPON RECORDED,Customer 134,Bengaluru,
+ORD1386,Customer 27,Female,39,Kolkata,Electronics,6,1042.89,5,Credit Card,30-12-2025,3,,NO COUPON RECORDED,Customer 27,Kolkata,5
+ORD1233,Customer 303,Female,22,Kolkata,Furniture,5,1410.64,20,UPI,19-11-2025,5,,NO COUPON RECORDED,Customer 303,Kolkata,20
+ORD1229,Customer 71,Male,23,Delhi,Clothing,4,1100.42,5,Cash on Delivery,08-06-2025,5,,NO COUPON RECORDED,Customer 71,Delhi,5
+ORD1825,Customer 37,Female,38,Pune,Electronics,2,2403.93,,Cash on Delivery,21-01-2025,2,,NO COUPON RECORDED,Customer 37,Pune,
+ORD1428,Customer 11,Male,54,Bengaluru,Books,7,791.13,5,UPI,30-05-2025,5,,NO COUPON RECORDED,Customer 11,Bengaluru,5
+ORD1647,Customer 214,Female,28,Chennai,Groceries,3,746.4,15,Debit Card,07-07-2025,5,,NO COUPON RECORDED,Customer 214,Chennai,15
+ORD1650,Customer 196,,17,Hyderabad,Clothing,4,2660.16,10,Debit Card,08-12-2025,3,,NO COUPON RECORDED,Customer 196,Hyderabad,10
+ORD1319,Customer 307,Male,22,Mumbai,Clothing,5,3100.99,20,UPI,09-11-2025,4,,NO COUPON RECORDED,Customer 307,Mumbai,20
+ORD1445,Customer 265,Male,19,Hyderabad,Furniture,2,1512.32,10,UPI,22-02-2025,3,,NO COUPON RECORDED,Customer 265,Hyderabad,10
+ORD1628,Customer 202,Male,40,Delhi,Electronics,7,1756.34,10,Credit Card,16-09-2025,,,NO COUPON RECORDED,Customer 202,Delhi,10
+ORD1472,Customer 173,Male,46,Delhi,Groceries,5,324.46,0,Debit Card,25-10-2025,5,,NO COUPON RECORDED,Customer 173,Delhi,0
+ORD1702,Customer 67,Female,28,Kolkata,Clothing,7,1450.72,0,Credit Card,19-05-2025,1,SAVE10,SAVE10,Customer 67,Kolkata,0
+ORD1831,Customer 97,Female,29,Chennai,Clothing,7,2684.55,15,,26-08-2025,4,,NO COUPON RECORDED,Customer 97,Chennai,15
+ORD1708,Customer 190,Male,19,Hyderabad,Books,5,489.16,20,,28-09-2025,2,,NO COUPON RECORDED,Customer 190,Hyderabad,20
+ORD1059,Customer 273,Male,13,Hyderabad,Clothing,7,907.05,20,Credit Card,05-03-2025,,SAVE10,SAVE10,Customer 273,Hyderabad,20
+ORD1703,Customer 69,,34,Pune,Electronics,5,1035.82,20,Cash on Delivery,16-01-2025,4,,NO COUPON RECORDED,Customer 69,Pune,20
+ORD1416,,Female,33,Delhi,Clothing,6,1017.2,10,Credit Card,12-11-2025,3,,NO COUPON RECORDED,Unknown,Delhi,10
+ORD1954,Customer 314,,35,Pune,Furniture,5,1954.36,15,UPI,21-12-2025,,,NO COUPON RECORDED,Customer 314,Pune,15
+ORD1934,Customer 177,Male,46,Pune,Groceries,3,190.73,10,UPI,27-01-2025,4,,NO COUPON RECORDED,Customer 177,Pune,10
+ORD1116,Customer 15,Female,36,Hyderabad,Furniture,3,999999,20,Cash on Delivery,11-04-2025,5,,NO COUPON RECORDED,Customer 15,Hyderabad,20
+ORD1068,Customer 31,Male,35,Delhi,Electronics,2,911.27,15,Debit Card,26-09-2025,5,,NO COUPON RECORDED,Customer 31,Delhi,15
+ORD1456,Customer 60,Female,49,Bengaluru,Books,5,500.26,10,Debit Card,06-05-2025,3,,NO COUPON RECORDED,Customer 60,Bengaluru,10
+ORD1844,Customer 3,Female,15,Pune,Books,6,1502.64,10,Credit Card,20-10-2025,4,,NO COUPON RECORDED,Customer 3,Pune,10
+ORD1401,Customer 311,Male,47,Pune,Furniture,6,6092.16,20,UPI,26-02-2025,4,SAVE10,SAVE10,Customer 311,Pune,20
+ORD1431,Customer 295,Male,41,Kolkata,Electronics,2,1941.65,0,Cash on Delivery,20-12-2025,,,NO COUPON RECORDED,Customer 295,Kolkata,0
+ORD1371,Customer 265,Male,62,Bengaluru,Electronics,1,602.45,,Credit Card,,,,NO COUPON RECORDED,Customer 265,Bengaluru,
+ORD1399,Customer 124,Male,24,Bengaluru,Furniture,5,445.78,5,Debit Card,23-11-2025,5,,NO COUPON RECORDED,Customer 124,Bengaluru,5
+ORD1636,Customer 94,Male,21,Hyderabad,Electronics,1,567.2,0,UPI,06-02-2025,4,SAVE10,SAVE10,Customer 94,Hyderabad,0
+ORD1925,Customer 378,Male,24,Delhi,Clothing,4,601.51,0,,,5,,NO COUPON RECORDED,Customer 378,Delhi,0
+ORD1717,Customer 197,Male,29,Bengaluru,Groceries,7,5407.5,10,Cash on Delivery,08-07-2025,3,,NO COUPON RECORDED,Customer 197,Bengaluru,10
+ORD1554,Customer 393,Male,8,Mumbai,Clothing,1,575.52,5,Cash on Delivery,12-10-2025,5,,NO COUPON RECORDED,Customer 393,Mumbai,5
+ORD1037,Customer 331,Male,35,Kolkata,Groceries,6,240.62,,UPI,08-05-2025,2,,NO COUPON RECORDED,Customer 331,Kolkata,
+ORD1752,Customer 35,Female,22,Delhi,Furniture,4,352.97,15,Cash on Delivery,20-09-2025,4,,NO COUPON RECORDED,Customer 35,Delhi,15
+ORD1423,Customer 232,Female,28,Mumbai,Clothing,5,829.9,,UPI,25-01-2025,5,,NO COUPON RECORDED,Customer 232,Mumbai,
+ORD1106,Customer 312,Male,19,,Furniture,1,2321.61,10,Cash on Delivery,26-01-2025,3,,NO COUPON RECORDED,Customer 312,Unknown,10
+ORD1351,Customer 18,Male,20,Chennai,Groceries,7,249.15,5,Credit Card,13-08-2025,,SAVE10,SAVE10,Customer 18,Chennai,5
+ORD1356,Customer 61,Male,19,Pune,Electronics,3,842.6,,Credit Card,27-04-2025,2,,NO COUPON RECORDED,Customer 61,Pune,
+ORD1323,Customer 366,Female,37,Mumbai,Clothing,7,2010.67,,Cash on Delivery,17-04-2025,5,,NO COUPON RECORDED,Customer 366,Mumbai,
+ORD1629,Customer 147,Male,38,Mumbai,Clothing,3,1013.6,0,UPI,06-02-2025,5,,NO COUPON RECORDED,Customer 147,Mumbai,0
+ORD1251,Customer 198,Male,35,Hyderabad,Furniture,1,1718.54,0,Debit Card,30-09-2025,4,SAVE10,SAVE10,Customer 198,Hyderabad,0
+ORD1710,Customer 272,Male,39,Hyderabad,Groceries,3,975.65,15,Debit Card,17-12-2025,2,,NO COUPON RECORDED,Customer 272,Hyderabad,15
+ORD1760,Customer 71,Male,30,Hyderabad,Clothing,2,2446.87,20,UPI,17-08-2025,4,,NO COUPON RECORDED,Customer 71,Hyderabad,20
+ORD1729,Customer 263,Male,30,Pune,Furniture,1,1579.41,20,,13-07-2025,,SAVE10,SAVE10,Customer 263,Pune,20
+ORD1390,Customer 298,Male,30,Bengaluru,Furniture,2,2361.48,15,Credit Card,24-04-2025,,,NO COUPON RECORDED,Customer 298,Bengaluru,15
+ORD1055,Customer 18,Female,39,Hyderabad,Clothing,5,2604.77,5,Credit Card,13-05-2025,5,,NO COUPON RECORDED,Customer 18,Hyderabad,5
+ORD1215,,Male,27,Mumbai,Books,2,336.35,0,UPI,18-10-2025,,,NO COUPON RECORDED,Unknown,Mumbai,0
+ORD1338,Customer 81,Female,10,Bengaluru,Clothing,6,2303.16,20,Debit Card,17-12-2025,5,,NO COUPON RECORDED,Customer 81,Bengaluru,20
+ORD1869,,Female,37,Kolkata,Furniture,5,943.36,0,UPI,15-08-2025,3,SAVE10,SAVE10,Unknown,Kolkata,0
+ORD1533,Customer 114,Male,29,Pune,Furniture,3,761.97,10,UPI,01-06-2025,4,,NO COUPON RECORDED,Customer 114,Pune,10
+ORD1056,Customer 219,Male,41,Pune,Furniture,7,1971.06,0,Cash on Delivery,18-08-2025,2,,NO COUPON RECORDED,Customer 219,Pune,0
+ORD1631,Customer 131,Female,51,Mumbai,Furniture,6,2567.81,15,Credit Card,14-10-2025,5,,NO COUPON RECORDED,Customer 131,Mumbai,15
+ORD1439,Customer 159,Female,38,Chennai,Furniture,1,1720.36,10,Cash on Delivery,02-10-2025,,,NO COUPON RECORDED,Customer 159,Chennai,10
+ORD1169,Customer 10,Female,35,Kolkata,Electronics,1,3350.53,10,Credit Card,10-08-2025,3,,NO COUPON RECORDED,Customer 10,Kolkata,10
+ORD1291,Customer 107,Female,52,Mumbai,Clothing,1,1914.34,20,UPI,16-05-2025,3,,NO COUPON RECORDED,Customer 107,Mumbai,20
+ORD1181,Customer 61,Female,45,Hyderabad,Clothing,7,594.43,0,UPI,04-01-2025,,,NO COUPON RECORDED,Customer 61,Hyderabad,0
+ORD1053,Customer 187,Female,38,Chennai,Electronics,2,3127.63,20,Credit Card,06-12-2025,,,NO COUPON RECORDED,Customer 187,Chennai,20
+ORD1914,Customer 237,Male,49,Delhi,Books,6,700.46,5,Cash on Delivery,26-06-2025,5,,NO COUPON RECORDED,Customer 237,Delhi,5
+ORD1949,Customer 111,Male,29,Hyderabad,Electronics,5,380.12,15,Cash on Delivery,13-10-2025,5,,NO COUPON RECORDED,Customer 111,Hyderabad,15
+ORD1346,Customer 396,Female,39,Bengaluru,Groceries,7,531.05,10,Debit Card,13-06-2025,5,,NO COUPON RECORDED,Customer 396,Bengaluru,10
+ORD1151,Customer 113,Female,39,Delhi,Electronics,4,5673.92,20,Cash on Delivery,16-09-2025,5,,NO COUPON RECORDED,Customer 113,Delhi,20
+ORD1794,,Male,27,Bengaluru,Furniture,6,631.77,20,Credit Card,22-08-2025,4,,NO COUPON RECORDED,Unknown,Bengaluru,20
+ORD1475,Customer 314,Male,21,Delhi,Electronics,4,7762.46,5,Cash on Delivery,16-11-2025,4,SAVE10,SAVE10,Customer 314,Delhi,5
+ORD1230,Customer 185,Female,26,Delhi,Furniture,2,1109.77,20,Cash on Delivery,13-04-2025,4,,NO COUPON RECORDED,Customer 185,Delhi,20
+ORD1632,Customer 174,Male,24,Kolkata,Books,7,650.89,0,Debit Card,06-09-2025,5,,NO COUPON RECORDED,Customer 174,Kolkata,0
+ORD1845,Customer 3,Female,38,Chennai,Groceries,1,804.71,20,Credit Card,19-07-2025,2,,NO COUPON RECORDED,Customer 3,Chennai,20
+ORD1612,Customer 313,Female,35,Hyderabad,Furniture,1,1069.47,0,Cash on Delivery,10-04-2025,,,NO COUPON RECORDED,Customer 313,Hyderabad,0
+ORD1751,,Female,41,Kolkata,Books,7,1168.38,5,Cash on Delivery,18-02-2025,4,,NO COUPON RECORDED,Unknown,Kolkata,5
+ORD1756,Customer 295,Male,54,Hyderabad,Electronics,7,1509.63,0,,21-07-2025,4,SAVE10,SAVE10,Customer 295,Hyderabad,0
+ORD1941,Customer 162,Male,30,Kolkata,Electronics,6,684.09,0,Cash on Delivery,23-01-2025,,,NO COUPON RECORDED,Customer 162,Kolkata,0
+ORD1908,Customer 149,Male,17,Pune,Furniture,1,1122.41,5,,15-07-2025,,,NO COUPON RECORDED,Customer 149,Pune,5
+ORD1188,Customer 96,Female,36,Delhi,Clothing,5,1448.9,,Cash on Delivery,30-01-2025,,,NO COUPON RECORDED,Customer 96,Delhi,
+ORD1388,Customer 356,Female,40,Delhi,Clothing,1,3821.05,0,Debit Card,31-05-2025,4,,NO COUPON RECORDED,Customer 356,Delhi,0
+ORD1980,Customer 236,Female,35,Hyderabad,Clothing,3,3438.09,5,,16-02-2025,3,,NO COUPON RECORDED,Customer 236,Hyderabad,5
+ORD1857,Customer 23,Female,26,Pune,Books,2,636.47,10,Credit Card,01-07-2025,3,,NO COUPON RECORDED,Customer 23,Pune,10
+ORD1749,Customer 63,Female,29,Pune,Electronics,4,584.91,15,Credit Card,17-04-2025,2,SAVE10,SAVE10,Customer 63,Pune,15
+ORD1185,Customer 179,Male,38,Chennai,Electronics,5,2185.08,20,Debit Card,26-09-2025,4,,NO COUPON RECORDED,Customer 179,Chennai,20
+ORD1549,Customer 272,Male,28,Pune,Groceries,5,2038.94,10,Credit Card,23-01-2025,3,,NO COUPON RECORDED,Customer 272,Pune,10
+ORD1043,Customer 142,Male,23,Delhi,Electronics,2,1703.34,15,Debit Card,17-11-2025,,,NO COUPON RECORDED,Customer 142,Delhi,15
+ORD1956,Customer 160,Female,46,Pune,Groceries,3,874.21,0,Credit Card,02-12-2025,2,,NO COUPON RECORDED,Customer 160,Pune,0
+ORD1653,Customer 321,Female,41,Bengaluru,Furniture,3,815.26,10,UPI,08-08-2025,5,,NO COUPON RECORDED,Customer 321,Bengaluru,10
+ORD1886,Customer 22,Female,42,Pune,Electronics,5,1790.83,10,Credit Card,13-05-2025,,,NO COUPON RECORDED,Customer 22,Pune,10
+ORD1142,Customer 111,Female,43,Bengaluru,Groceries,3,1466.47,15,Credit Card,06-06-2025,5,,NO COUPON RECORDED,Customer 111,Bengaluru,15
+ORD1619,Customer 56,Female,12,Kolkata,Groceries,4,1151.49,10,UPI,27-07-2025,4,,NO COUPON RECORDED,Customer 56,Kolkata,10
+ORD1865,Customer 279,Male,24,Bengaluru,Furniture,7,1573.2,5,Cash on Delivery,10-10-2025,5,SAVE10,SAVE10,Customer 279,Bengaluru,5
+ORD1352,Customer 120,Male,47,Delhi,Electronics,2,514.81,10,Cash on Delivery,,,,NO COUPON RECORDED,Customer 120,Delhi,10
+ORD1317,Customer 291,Female,35,Delhi,Groceries,7,2252.96,,Credit Card,15-07-2025,,,NO COUPON RECORDED,Customer 291,Delhi,
+ORD1322,Customer 246,Female,43,Kolkata,Clothing,4,951.11,,Credit Card,03-01-2025,3,,NO COUPON RECORDED,Customer 246,Kolkata,
+ORD1448,Customer 208,Female,26,Bengaluru,Groceries,4,387.05,,Cash on Delivery,07-06-2025,,,NO COUPON RECORDED,Customer 208,Bengaluru,
+ORD1854,Customer 115,Male,43,Chennai,Groceries,5,789.76,15,UPI,30-01-2025,4,,NO COUPON RECORDED,Customer 115,Chennai,15
+ORD1546,Customer 172,Female,15,Chennai,Groceries,6,1408.34,15,UPI,09-10-2025,5,,NO COUPON RECORDED,Customer 172,Chennai,15
+ORD1921,Customer 229,Female,19,Hyderabad,Electronics,4,437.76,10,Cash on Delivery,28-07-2025,4,,NO COUPON RECORDED,Customer 229,Hyderabad,10
+ORD1329,Customer 222,Male,19,Delhi,Clothing,7,262.6,10,Cash on Delivery,08-11-2025,,,NO COUPON RECORDED,Customer 222,Delhi,10
+ORD1000,Customer 36,Female,28,Bengaluru,Books,4,303.67,10,Debit Card,31-05-2025,5,,NO COUPON RECORDED,Customer 36,Bengaluru,10
+ORD1150,,Male,31,Delhi,Furniture,4,1837.23,0,UPI,18-04-2025,,,NO COUPON RECORDED,Unknown,Delhi,0
+ORD1654,Customer 221,Male,35,Chennai,Groceries,7,2492.28,0,Credit Card,28-07-2025,4,,NO COUPON RECORDED,Customer 221,Chennai,0
+ORD1067,Customer 148,Female,30,Kolkata,Furniture,7,2600.48,0,Debit Card,27-02-2025,3,,NO COUPON RECORDED,Customer 148,Kolkata,0
+ORD1785,Customer 235,Male,28,,Furniture,7,3307.23,5,Cash on Delivery,27-10-2025,5,,NO COUPON RECORDED,Customer 235,Unknown,5
+ORD1506,Customer 212,Female,12,Kolkata,Clothing,1,2863.45,15,UPI,21-12-2025,5,,NO COUPON RECORDED,Customer 212,Kolkata,15
+ORD1596,Customer 232,Female,24,Chennai,Electronics,1,655.2,0,Debit Card,28-10-2025,4,,NO COUPON RECORDED,Customer 232,Chennai,0
+ORD1487,Customer 212,Male,50,Bengaluru,Groceries,6,651.3,0,UPI,20-07-2025,4,,NO COUPON RECORDED,Customer 212,Bengaluru,0
+ORD1883,Customer 62,Female,29,Hyderabad,Books,1,1335.1,10,Credit Card,22-03-2025,4,,NO COUPON RECORDED,Customer 62,Hyderabad,10
+ORD1327,Customer 15,Male,38,Bengaluru,Clothing,1,396.44,10,Debit Card,25-11-2025,4,,NO COUPON RECORDED,Customer 15,Bengaluru,10
+ORD1806,Customer 218,Male,52,Delhi,Furniture,5,1291.39,20,Debit Card,27-07-2025,5,,NO COUPON RECORDED,Customer 218,Delhi,20
+ORD1909,Customer 37,Female,42,Hyderabad,Furniture,5,897.94,20,Debit Card,13-12-2025,4,,NO COUPON RECORDED,Customer 37,Hyderabad,20
+ORD1578,Customer 357,Male,33,Delhi,Electronics,4,1000000,5,Debit Card,11-02-2025,4,,NO COUPON RECORDED,Customer 357,Delhi,5
+ORD1809,Customer 398,Female,35,Mumbai,Furniture,5,1831.02,,Cash on Delivery,28-08-2025,,,NO COUPON RECORDED,Customer 398,Mumbai,
+ORD1600,Customer 246,Male,37,,Furniture,4,411.81,0,Debit Card,15-08-2025,5,,NO COUPON RECORDED,Customer 246,Unknown,0
+ORD1534,Customer 231,Female,29,Hyderabad,Clothing,7,905.44,0,Credit Card,19-10-2025,4,,NO COUPON RECORDED,Customer 231,Hyderabad,0
+ORD1715,Customer 319,Female,30,Bengaluru,Electronics,4,251.43,5,Debit Card,03-08-2025,4,,NO COUPON RECORDED,Customer 319,Bengaluru,5
+ORD1179,Customer 200,Male,40,Kolkata,Groceries,2,1063.02,20,UPI,13-08-2025,4,SAVE10,SAVE10,Customer 200,Kolkata,20
+ORD1652,Customer 81,Male,27,Bengaluru,Clothing,6,1167.11,,Debit Card,21-06-2025,5,SAVE10,SAVE10,Customer 81,Bengaluru,
+ORD1885,Customer 294,Male,32,Chennai,Clothing,300,1051.43,10,Credit Card,03-10-2025,4,,NO COUPON RECORDED,Customer 294,Chennai,10
+ORD1131,Customer 221,Female,45,Mumbai,Books,5,1200.74,5,Cash on Delivery,23-06-2025,,SAVE10,SAVE10,Customer 221,Mumbai,5
+ORD1851,Customer 320,Male,40,Chennai,Electronics,3,143.83,15,Credit Card,23-04-2025,5,SAVE10,SAVE10,Customer 320,Chennai,15
+ORD1296,Customer 340,Male,31,Chennai,Furniture,6,1316.55,5,UPI,12-11-2025,4,,NO COUPON RECORDED,Customer 340,Chennai,5
+ORD1283,Customer 196,Female,45,Hyderabad,Groceries,1,1169.68,0,Credit Card,26-11-2025,5,SAVE10,SAVE10,Customer 196,Hyderabad,0
+ORD1417,Customer 49,Male,17,Delhi,Clothing,2,9814.37,15,Debit Card,15-10-2025,3,,NO COUPON RECORDED,Customer 49,Delhi,15
+ORD1130,Customer 226,Male,40,Mumbai,Books,1,1947.26,0,Cash on Delivery,03-07-2025,5,,NO COUPON RECORDED,Customer 226,Mumbai,0
+ORD1599,Customer 257,Female,23,,Books,7,1283.2,15,Credit Card,27-08-2025,4,,NO COUPON RECORDED,Customer 257,Unknown,15
+ORD1509,Customer 95,Female,56,Hyderabad,Clothing,2,3584.46,0,,24-10-2025,4,,NO COUPON RECORDED,Customer 95,Hyderabad,0
+ORD1114,Customer 202,Male,33,Pune,Electronics,1,886.15,20,Credit Card,,5,,NO COUPON RECORDED,Customer 202,Pune,20
+ORD1968,Customer 368,Female,51,Pune,Books,2,487.23,10,,07-07-2025,4,,NO COUPON RECORDED,Customer 368,Pune,10
+ORD1994,Customer 212,Female,29,Hyderabad,Groceries,4,491.22,20,Debit Card,18-01-2025,,,NO COUPON RECORDED,Customer 212,Hyderabad,20
+ORD1882,Customer 180,Male,35,Mumbai,Clothing,1,1135.42,10,Credit Card,06-09-2025,3,,NO COUPON RECORDED,Customer 180,Mumbai,10
+ORD1894,Customer 300,,24,Hyderabad,Groceries,1,519.79,15,Credit Card,19-02-2025,3,,NO COUPON RECORDED,Customer 300,Hyderabad,15
+ORD1271,Customer 10,Male,41,Pune,Groceries,5,537.42,5,Debit Card,31-10-2025,2,,NO COUPON RECORDED,Customer 10,Pune,5
+ORD1540,Customer 283,Male,35,Pune,Electronics,1,313.89,10,Credit Card,13-08-2025,4,,NO COUPON RECORDED,Customer 283,Pune,10
+ORD1313,Customer 113,Female,47,Delhi,Clothing,1,1817.91,10,UPI,19-07-2025,5,,NO COUPON RECORDED,Customer 113,Delhi,10
+ORD1525,Customer 124,Male,29,Pune,Groceries,5,220.91,0,Cash on Delivery,09-07-2025,3,,NO COUPON RECORDED,Customer 124,Pune,0
+ORD1284,Customer 177,,50,Hyderabad,Electronics,3,586.73,0,Credit Card,31-07-2025,4,,NO COUPON RECORDED,Customer 177,Hyderabad,0
+ORD1129,Customer 254,Female,35,Pune,Groceries,3,566.19,5,Cash on Delivery,29-07-2025,,,NO COUPON RECORDED,Customer 254,Pune,5
+ORD1395,Customer 349,Female,18,Kolkata,Groceries,1,893.67,20,Cash on Delivery,20-11-2025,,SAVE10,SAVE10,Customer 349,Kolkata,20
+ORD1326,Customer 95,Female,35,Chennai,Furniture,3,935.36,0,Debit Card,02-08-2025,,,NO COUPON RECORDED,Customer 95,Chennai,0
+ORD1805,Customer 312,Male,35,Bengaluru,Clothing,3,1771.65,5,Cash on Delivery,29-03-2025,5,,NO COUPON RECORDED,Customer 312,Bengaluru,5
+ORD1486,Customer 134,Male,31,Delhi,Clothing,2,851.42,10,Cash on Delivery,01-09-2025,5,,NO COUPON RECORDED,Customer 134,Delhi,10
+ORD1694,Customer 36,Male,24,Delhi,Electronics,2,1993.16,20,Cash on Delivery,20-03-2025,,,NO COUPON RECORDED,Customer 36,Delhi,20
+ORD1040,Customer 66,Female,31,Hyderabad,Clothing,3,318.54,5,UPI,25-03-2025,5,,NO COUPON RECORDED,Customer 66,Hyderabad,5
+ORD1306,Customer 121,Male,39,Mumbai,Clothing,1,742.17,5,UPI,23-08-2025,5,,NO COUPON RECORDED,Customer 121,Mumbai,5
+ORD1373,Customer 150,Male,27,Mumbai,Furniture,2,1395.34,,Credit Card,06-10-2025,3,,NO COUPON RECORDED,Customer 150,Mumbai,
+ORD1774,Customer 338,Female,50,Delhi,Clothing,4,3333.07,15,,14-09-2025,,,NO COUPON RECORDED,Customer 338,Delhi,15
+ORD1965,Customer 235,Female,26,Pune,Clothing,1,1339.75,10,Credit Card,27-02-2025,,SAVE10,SAVE10,Customer 235,Pune,10
+ORD1272,Customer 61,Female,51,Bengaluru,Electronics,2,606.18,15,,20-12-2025,,,NO COUPON RECORDED,Customer 61,Bengaluru,15
+ORD1008,Customer 81,Female,25,Mumbai,Furniture,6,873.69,15,UPI,25-06-2025,5,,NO COUPON RECORDED,Customer 81,Mumbai,15
+ORD1645,Customer 132,Male,35,Delhi,Groceries,3,566.97,10,UPI,01-08-2025,4,,NO COUPON RECORDED,Customer 132,Delhi,10
+ORD1567,Customer 100,,55,Kolkata,Clothing,7,900.93,10,Cash on Delivery,15-03-2025,,,NO COUPON RECORDED,Customer 100,Kolkata,10
+ORD1397,Customer 79,Female,31,Pune,Books,3,1319.24,5,Debit Card,06-09-2025,,,NO COUPON RECORDED,Customer 79,Pune,5
+ORD1997,Customer 144,Female,28,Bengaluru,Furniture,7,360.54,0,UPI,15-02-2025,3,,NO COUPON RECORDED,Customer 144,Bengaluru,0
+ORD1706,Customer 4,Female,40,Pune,Books,5,3315.28,0,Credit Card,24-06-2025,4,,NO COUPON RECORDED,Customer 4,Pune,0
+ORD1832,Customer 181,Female,31,Hyderabad,Clothing,5,754.89,10,Credit Card,28-11-2025,4,,NO COUPON RECORDED,Customer 181,Hyderabad,10
+ORD1532,Customer 63,Female,23,Mumbai,Electronics,1,1658.37,10,UPI,22-11-2025,,,NO COUPON RECORDED,Customer 63,Mumbai,10
+ORD1565,Customer 95,Male,45,Delhi,Books,4,637.13,5,Credit Card,20-04-2025,,,NO COUPON RECORDED,Customer 95,Delhi,5
+ORD1920,Customer 349,Male,37,Kolkata,Furniture,6,934.76,15,Debit Card,24-12-2025,5,,NO COUPON RECORDED,Customer 349,Kolkata,15
+ORD1739,Customer 359,Male,30,Mumbai,Electronics,7,1640.77,20,Credit Card,19-10-2025,,,NO COUPON RECORDED,Customer 359,Mumbai,20
+ORD1491,Customer 347,Male,53,Hyderabad,Groceries,3,851.59,15,UPI,01-02-2025,,,NO COUPON RECORDED,Customer 347,Hyderabad,15
+ORD1079,Customer 268,Female,30,Kolkata,Clothing,1,478.52,5,UPI,11-11-2025,,,NO COUPON RECORDED,Customer 268,Kolkata,5
+ORD1609,Customer 343,Male,35,Mumbai,Furniture,6,954.31,0,Cash on Delivery,22-06-2025,3,,NO COUPON RECORDED,Customer 343,Mumbai,0
+ORD1342,Customer 249,Male,32,Mumbai,Electronics,6,1535.01,20,UPI,02-02-2025,3,,NO COUPON RECORDED,Customer 249,Mumbai,20
+ORD1049,Customer 311,Male,35,,Groceries,5,1112.89,0,UPI,02-09-2025,,,NO COUPON RECORDED,Customer 311,Unknown,0
+ORD1250,Customer 72,Male,13,Kolkata,Groceries,4,660.76,10,Credit Card,13-10-2025,5,,NO COUPON RECORDED,Customer 72,Kolkata,10
+ORD1020,Customer 200,,38,Delhi,Books,5,309.5,0,,15-01-2025,1,,NO COUPON RECORDED,Customer 200,Delhi,0
+ORD1735,Customer 268,Female,36,Chennai,Electronics,7,1398.73,5,Credit Card,10-01-2025,4,,NO COUPON RECORDED,Customer 268,Chennai,5
+ORD1135,Customer 122,Male,41,Kolkata,Books,2,4193.44,20,Debit Card,25-01-2025,4,,NO COUPON RECORDED,Customer 122,Kolkata,20
+ORD1536,Customer 182,Male,38,Bengaluru,Clothing,5,494.81,10,Cash on Delivery,08-09-2025,4,,NO COUPON RECORDED,Customer 182,Bengaluru,10
+ORD1930,Customer 215,Male,40,Delhi,Groceries,4,1453.85,10,,11-05-2025,2,,NO COUPON RECORDED,Customer 215,Delhi,10
+ORD1966,Customer 241,Male,48,Chennai,Electronics,5,1156.08,15,Debit Card,12-06-2025,5,,NO COUPON RECORDED,Customer 241,Chennai,15
+ORD1697,Customer 236,Male,47,Hyderabad,Clothing,3,859.67,15,Cash on Delivery,14-10-2025,4,,NO COUPON RECORDED,Customer 236,Hyderabad,15
+ORD1382,Customer 379,Male,34,Mumbai,Groceries,6,719.47,15,Cash on Delivery,10-10-2025,,,NO COUPON RECORDED,Customer 379,Mumbai,15
+ORD1025,Customer 257,Male,53,Bengaluru,Books,3,557.31,20,Credit Card,21-12-2025,5,,NO COUPON RECORDED,Customer 257,Bengaluru,20
+ORD1047,Customer 357,,25,Hyderabad,Clothing,5,917.58,,,02-05-2025,,,NO COUPON RECORDED,Customer 357,Hyderabad,
+ORD1791,Customer 182,Female,25,Delhi,Electronics,2,1692.59,5,UPI,17-01-2025,4,,NO COUPON RECORDED,Customer 182,Delhi,5
+ORD1174,Customer 279,Male,12,Pune,Clothing,2,1159.92,15,UPI,12-04-2025,1,,NO COUPON RECORDED,Customer 279,Pune,15
+ORD1029,Customer 177,Male,43,Hyderabad,Books,2,2034.02,,Credit Card,02-09-2025,4,,NO COUPON RECORDED,Customer 177,Hyderabad,
+ORD1153,Customer 118,Female,40,Hyderabad,Clothing,4,650000,20,Credit Card,18-01-2025,3,,NO COUPON RECORDED,Customer 118,Hyderabad,20
+ORD1570,Customer 379,Male,35,Chennai,Books,7,1342.87,20,Cash on Delivery,25-04-2025,,,NO COUPON RECORDED,Customer 379,Chennai,20
+ORD1833,Customer 58,Male,35,Chennai,Furniture,7,2195.62,5,Credit Card,07-05-2025,,,NO COUPON RECORDED,Customer 58,Chennai,5
+ORD1777,,Male,42,Chennai,Furniture,1,2230.91,,Cash on Delivery,30-09-2025,,,NO COUPON RECORDED,Unknown,Chennai,
+ORD1161,Customer 266,Male,33,Chennai,Groceries,6,3222.33,5,Credit Card,17-08-2025,4,SAVE10,SAVE10,Customer 266,Chennai,5
+ORD1244,Customer 251,Female,30,Kolkata,Groceries,2,369.14,10,Debit Card,15-09-2025,5,,NO COUPON RECORDED,Customer 251,Kolkata,10
+ORD1900,Customer 2,Female,42,Delhi,Books,3,4767.21,5,Credit Card,16-08-2025,,,NO COUPON RECORDED,Customer 2,Delhi,5
+ORD1158,Customer 202,Male,32,Kolkata,Groceries,2,578.4,15,Debit Card,04-12-2025,3,,NO COUPON RECORDED,Customer 202,Kolkata,15
+ORD1530,Customer 239,Male,23,Chennai,Clothing,3,3126.35,10,Cash on Delivery,28-07-2025,4,,NO COUPON RECORDED,Customer 239,Chennai,10
+ORD1501,Customer 261,Male,35,Bengaluru,Electronics,1,2006.61,20,Credit Card,30-03-2025,3,,NO COUPON RECORDED,Customer 261,Bengaluru,20
+ORD1432,Customer 330,Male,21,Chennai,Electronics,3,425.38,20,Credit Card,26-03-2025,3,,NO COUPON RECORDED,Customer 330,Chennai,20
+ORD1737,Customer 134,Male,37,Hyderabad,Electronics,3,483.28,0,Debit Card,20-02-2025,4,,NO COUPON RECORDED,Customer 134,Hyderabad,0
+ORD1899,Customer 246,Male,33,Chennai,Books,6,265.88,0,Debit Card,03-05-2025,4,,NO COUPON RECORDED,Customer 246,Chennai,0
+ORD1814,Customer 311,Female,36,Hyderabad,Furniture,1,1309.9,5,Debit Card,17-08-2025,,SAVE10,SAVE10,Customer 311,Hyderabad,5
+ORD1366,Customer 188,Male,38,Mumbai,Electronics,6,290.71,10,UPI,23-03-2025,3,,NO COUPON RECORDED,Customer 188,Mumbai,10
+ORD1942,Customer 365,Female,39,Mumbai,Groceries,7,441.84,15,UPI,22-02-2025,,,NO COUPON RECORDED,Customer 365,Mumbai,15
+ORD1054,Customer 199,Male,38,Mumbai,Books,5,2207.19,,UPI,05-04-2025,3,,NO COUPON RECORDED,Customer 199,Mumbai,
+ORD1689,Customer 313,Male,39,Bengaluru,Groceries,4,609.8,5,Credit Card,18-09-2025,2,,NO COUPON RECORDED,Customer 313,Bengaluru,5
+ORD1024,Customer 312,Female,35,Delhi,Furniture,2,3531.36,15,UPI,20-01-2025,5,,NO COUPON RECORDED,Customer 312,Delhi,15
+ORD1298,Customer 114,Female,34,Bengaluru,Groceries,1,1374.26,5,Credit Card,30-09-2025,,SAVE10,SAVE10,Customer 114,Bengaluru,5
+ORD1556,Customer 294,Female,35,Mumbai,Clothing,4,446.22,20,Cash on Delivery,24-08-2025,3,,NO COUPON RECORDED,Customer 294,Mumbai,20
+ORD1575,Customer 150,Male,37,Hyderabad,Groceries,1,857.46,5,UPI,05-11-2025,1,,NO COUPON RECORDED,Customer 150,Hyderabad,5
+ORD1018,Customer 336,Male,41,Hyderabad,Furniture,3,712.91,15,UPI,08-06-2025,5,,NO COUPON RECORDED,Customer 336,Hyderabad,15
+ORD1763,Customer 374,Female,34,Kolkata,Groceries,1,491.44,20,Debit Card,06-08-2025,3,,NO COUPON RECORDED,Customer 374,Kolkata,20
+ORD1254,Customer 264,Female,48,Hyderabad,Furniture,1,473.36,20,Debit Card,11-07-2025,3,,NO COUPON RECORDED,Customer 264,Hyderabad,20
+ORD1225,Customer 123,Female,35,Delhi,Clothing,2,1448.59,20,Cash on Delivery,31-07-2025,3,SAVE10,SAVE10,Customer 123,Delhi,20
+ORD1419,Customer 203,Male,47,Bengaluru,Books,6,573.23,5,Debit Card,24-11-2025,3,,NO COUPON RECORDED,Customer 203,Bengaluru,5
+ORD1648,Customer 384,Female,40,Mumbai,Books,3,799.1,15,UPI,12-06-2025,4,,NO COUPON RECORDED,Customer 384,Mumbai,15
+ORD1801,Customer 121,Male,26,Delhi,Clothing,4,1927,15,UPI,08-04-2025,,,NO COUPON RECORDED,Customer 121,Delhi,15
+ORD1222,Customer 281,Female,35,Mumbai,Clothing,6,2170.23,10,Debit Card,27-10-2025,,,NO COUPON RECORDED,Customer 281,Mumbai,10
+ORD1424,Customer 167,Male,50,Bengaluru,Clothing,2,1179.94,,Credit Card,02-01-2025,4,,NO COUPON RECORDED,Customer 167,Bengaluru,
+ORD1218,Customer 179,Female,35,Hyderabad,Books,7,3274.5,10,UPI,20-01-2025,4,,NO COUPON RECORDED,Customer 179,Hyderabad,10
+ORD1873,Customer 50,Female,29,Chennai,Books,3,681.45,15,UPI,21-05-2025,,,NO COUPON RECORDED,Customer 50,Chennai,15
+ORD1861,Customer 371,Male,26,Mumbai,Books,1,311.35,5,Credit Card,11-09-2025,2,,NO COUPON RECORDED,Customer 371,Mumbai,5
+ORD1171,Customer 36,Female,34,Bengaluru,Clothing,3,7587.4,10,UPI,26-01-2025,,SAVE10,SAVE10,Customer 36,Bengaluru,10
+ORD1442,Customer 53,Female,40,Hyderabad,Electronics,3,740.92,5,UPI,29-04-2025,5,,NO COUPON RECORDED,Customer 53,Hyderabad,5
+ORD1676,Customer 232,Male,41,Pune,Groceries,7,158.4,10,Cash on Delivery,30-07-2025,3,,NO COUPON RECORDED,Customer 232,Pune,10
+ORD1286,,Female,35,Bengaluru,Books,4,2029.04,10,UPI,27-12-2025,3,,NO COUPON RECORDED,Unknown,Bengaluru,10
+ORD1066,Customer 362,Female,40,Hyderabad,Books,2,2447.4,,Credit Card,14-11-2025,,,NO COUPON RECORDED,Customer 362,Hyderabad,
+ORD1071,Customer 76,Male,43,Bengaluru,Electronics,5,3158.05,10,UPI,17-11-2025,5,,NO COUPON RECORDED,Customer 76,Bengaluru,10
+ORD1792,Customer 289,Male,36,Pune,Clothing,7,15015.24,10,Credit Card,11-02-2025,1,,NO COUPON RECORDED,Customer 289,Pune,10
+ORD1412,Customer 112,Male,50,,Clothing,6,1389.68,10,Debit Card,28-03-2025,,,NO COUPON RECORDED,Customer 112,Unknown,10
+ORD1082,,Female,39,Kolkata,Groceries,1,664.81,,UPI,02-01-2025,4,,NO COUPON RECORDED,Unknown,Kolkata,
+ORD1988,Customer 99,Male,25,Chennai,Groceries,6,1470.92,15,Credit Card,27-07-2025,3,,NO COUPON RECORDED,Customer 99,Chennai,15
+ORD1901,Customer 17,Female,31,Kolkata,Electronics,1,422.63,,Cash on Delivery,01-09-2025,5,,NO COUPON RECORDED,Customer 17,Kolkata,
+ORD1015,Customer 314,Female,37,Delhi,Furniture,2,842.91,0,Credit Card,20-07-2025,4,,NO COUPON RECORDED,Customer 314,Delhi,0
+ORD1797,Customer 183,Male,24,Chennai,Groceries,5,5219.26,15,UPI,23-04-2025,,,NO COUPON RECORDED,Customer 183,Chennai,15
+ORD1535,,Male,48,Chennai,Electronics,1,576.33,5,UPI,09-08-2025,5,,NO COUPON RECORDED,Unknown,Chennai,5
+ORD1626,Customer 135,,28,Delhi,Books,2,2192.18,0,Cash on Delivery,16-11-2025,3,,NO COUPON RECORDED,Customer 135,Delhi,0
+ORD1451,Customer 369,Male,45,Delhi,Clothing,2,3378.86,20,Credit Card,20-01-2025,5,,NO COUPON RECORDED,Customer 369,Delhi,20
+ORD1624,Customer 242,Female,21,Delhi,Books,4,1733.12,10,UPI,15-09-2025,5,,NO COUPON RECORDED,Customer 242,Delhi,10
+ORD1404,Customer 200,Male,35,Hyderabad,Electronics,5,3445.69,15,,28-11-2025,,,NO COUPON RECORDED,Customer 200,Hyderabad,15
+ORD1490,Customer 373,Male,36,Pune,Clothing,6,1420.08,15,UPI,15-11-2025,3,,NO COUPON RECORDED,Customer 373,Pune,15
+ORD1876,Customer 216,Male,20,Delhi,Books,1,1349.77,0,UPI,27-09-2025,5,,NO COUPON RECORDED,Customer 216,Delhi,0
+ORD1819,Customer 399,Male,46,Mumbai,Electronics,3,3542.29,,UPI,25-10-2025,4,,NO COUPON RECORDED,Customer 399,Mumbai,
+ORD1364,Customer 47,Female,24,Delhi,Clothing,2,336.39,20,Credit Card,07-07-2025,4,SAVE10,SAVE10,Customer 47,Delhi,20
+ORD1459,Customer 43,Female,43,Kolkata,Books,4,613.58,10,Cash on Delivery,07-12-2025,3,,NO COUPON RECORDED,Customer 43,Kolkata,10
+ORD1104,Customer 318,Male,24,Bengaluru,Groceries,3,1598.79,0,,17-03-2025,3,,NO COUPON RECORDED,Customer 318,Bengaluru,0
+ORD1268,Customer 245,Female,35,Bengaluru,Furniture,1,468.89,5,Credit Card,09-05-2025,4,,NO COUPON RECORDED,Customer 245,Bengaluru,5
+ORD1856,Customer 98,Male,41,Delhi,Electronics,3,619.37,0,Credit Card,26-12-2025,4,,NO COUPON RECORDED,Customer 98,Delhi,0
+ORD1937,Customer 60,Female,41,Bengaluru,Groceries,4,950.19,,Credit Card,27-07-2025,4,,NO COUPON RECORDED,Customer 60,Bengaluru,
+ORD1736,Customer 292,Female,12,Pune,Electronics,1,441.39,20,UPI,,3,,NO COUPON RECORDED,Customer 292,Pune,20
+ORD1241,Customer 234,Female,58,Pune,Books,1,1671.3,10,Credit Card,16-04-2025,5,,NO COUPON RECORDED,Customer 234,Pune,10
+ORD1430,Customer 34,,33,,Furniture,4,414.99,20,UPI,19-01-2025,4,,NO COUPON RECORDED,Customer 34,Unknown,20
+ORD1741,Customer 305,Female,45,,Clothing,7,1782.27,15,UPI,19-06-2025,4,,NO COUPON RECORDED,Customer 305,Unknown,15
+ORD1203,Customer 280,Female,24,Chennai,Groceries,5,990.49,0,UPI,02-09-2025,,,NO COUPON RECORDED,Customer 280,Chennai,0
+ORD1455,Customer 222,Male,39,Bengaluru,Clothing,3,1147.01,10,UPI,29-11-2025,5,SAVE10,SAVE10,Customer 222,Bengaluru,10
+ORD1595,Customer 321,Male,27,Pune,Electronics,1,506.85,5,UPI,19-04-2025,4,,NO COUPON RECORDED,Customer 321,Pune,5
+ORD1630,Customer 295,Female,37,Kolkata,Furniture,1,1334.02,15,Cash on Delivery,,,SAVE10,SAVE10,Customer 295,Kolkata,15
+ORD1096,Customer 96,Female,46,Hyderabad,Books,2,1491.86,20,Debit Card,05-08-2025,3,,NO COUPON RECORDED,Customer 96,Hyderabad,20
+ORD1467,Customer 238,Male,37,Mumbai,Groceries,4,4594.98,10,Cash on Delivery,13-08-2025,3,,NO COUPON RECORDED,Customer 238,Mumbai,10
+ORD1667,Customer 344,Female,35,Kolkata,Clothing,500,2109.42,5,Cash on Delivery,19-09-2025,4,,NO COUPON RECORDED,Customer 344,Kolkata,5
+ORD1492,Customer 301,Male,39,Delhi,Clothing,2,454.27,10,Cash on Delivery,20-05-2025,3,,NO COUPON RECORDED,Customer 301,Delhi,10
+ORD1166,Customer 129,Male,49,,Groceries,7,778.96,10,Cash on Delivery,31-01-2025,4,,NO COUPON RECORDED,Customer 129,Unknown,10
+ORD1698,Customer 21,Male,28,Pune,Groceries,2,924.19,5,Cash on Delivery,17-09-2025,5,,NO COUPON RECORDED,Customer 21,Pune,5
+ORD1903,Customer 353,Male,35,Chennai,Clothing,3,2483.03,5,Cash on Delivery,14-05-2025,4,,NO COUPON RECORDED,Customer 353,Chennai,5
+ORD1927,Customer 121,Male,32,Kolkata,Books,4,820.5,10,Debit Card,25-10-2025,,,NO COUPON RECORDED,Customer 121,Kolkata,10
+ORD1315,Customer 264,Male,35,Bengaluru,Clothing,5,817.83,5,UPI,08-02-2025,4,SAVE10,SAVE10,Customer 264,Bengaluru,5
+ORD1361,Customer 356,Male,34,Hyderabad,Books,4,3785.68,10,Debit Card,08-02-2025,5,,NO COUPON RECORDED,Customer 356,Hyderabad,10
+ORD1138,Customer 139,Female,42,Bengaluru,Furniture,2,1623.74,5,Cash on Delivery,,4,,NO COUPON RECORDED,Customer 139,Bengaluru,5
+ORD1276,Customer 187,Female,30,Mumbai,Electronics,3,950.65,20,UPI,07-09-2025,3,SAVE10,SAVE10,Customer 187,Mumbai,20
+ORD1384,Customer 13,Male,41,Mumbai,Clothing,4,2749,15,Cash on Delivery,09-10-2025,5,,NO COUPON RECORDED,Customer 13,Mumbai,15
+ORD1568,Customer 257,Female,25,Kolkata,Clothing,3,652.18,20,Credit Card,02-05-2025,3,,NO COUPON RECORDED,Customer 257,Kolkata,20
+ORD1870,Customer 183,Male,32,Bengaluru,Clothing,5,769.16,,UPI,10-08-2025,,,NO COUPON RECORDED,Customer 183,Bengaluru,
+ORD1088,Customer 307,Female,50,,Books,4,1107.72,20,Credit Card,,4,,NO COUPON RECORDED,Customer 307,Unknown,20
+ORD1691,Customer 318,Female,43,Bengaluru,Clothing,4,1970.64,5,Cash on Delivery,13-04-2025,,,NO COUPON RECORDED,Customer 318,Bengaluru,5
+ORD1280,Customer 111,Female,17,Chennai,Furniture,3,1597.76,0,UPI,25-03-2025,,,NO COUPON RECORDED,Customer 111,Chennai,0
+ORD1460,Customer 289,Female,44,Bengaluru,Clothing,5,414.72,0,,27-10-2025,5,SAVE10,SAVE10,Customer 289,Bengaluru,0
+ORD1680,Customer 289,Female,47,Hyderabad,Furniture,7,1714.74,15,Credit Card,29-01-2025,4,,NO COUPON RECORDED,Customer 289,Hyderabad,15
+ORD1953,Customer 171,,24,Kolkata,Electronics,2,630.42,5,Credit Card,05-10-2025,2,,NO COUPON RECORDED,Customer 171,Kolkata,5
+ORD1660,Customer 71,Female,51,Bengaluru,Clothing,3,6776.6,20,Debit Card,28-12-2025,4,,NO COUPON RECORDED,Customer 71,Bengaluru,20
+ORD1202,Customer 198,Female,31,Bengaluru,Furniture,5,650.51,20,Cash on Delivery,02-06-2025,4,,NO COUPON RECORDED,Customer 198,Bengaluru,20
+ORD1402,Customer 128,Male,45,Mumbai,Books,7,951.21,,UPI,28-06-2025,,,NO COUPON RECORDED,Customer 128,Mumbai,
+ORD1340,Customer 254,Female,47,Chennai,Furniture,6,771.57,5,Debit Card,31-08-2025,3,,NO COUPON RECORDED,Customer 254,Chennai,5
+ORD1365,Customer 208,Male,44,Chennai,Books,5,956.24,5,Debit Card,29-10-2025,5,,NO COUPON RECORDED,Customer 208,Chennai,5
+ORD1023,Customer 370,Female,44,Mumbai,Groceries,4,1952.72,5,Cash on Delivery,16-04-2025,4,,NO COUPON RECORDED,Customer 370,Mumbai,5
+ORD1345,Customer 103,Female,28,Bengaluru,Furniture,1,518.5,0,,26-11-2025,4,,NO COUPON RECORDED,Customer 103,Bengaluru,0
+ORD1374,Customer 354,Female,39,Kolkata,Books,4,2407.47,0,Debit Card,01-05-2025,,,NO COUPON RECORDED,Customer 354,Kolkata,0
+ORD1334,Customer 184,Female,14,Chennai,Electronics,1,1041.03,20,UPI,17-01-2025,4,,NO COUPON RECORDED,Customer 184,Chennai,20
+ORD1310,Customer 266,Female,51,Pune,Groceries,1,307.97,15,Debit Card,08-02-2025,3,,NO COUPON RECORDED,Customer 266,Pune,15
+ORD1987,Customer 127,Male,37,Kolkata,Groceries,4,1406.88,5,Credit Card,12-02-2025,5,,NO COUPON RECORDED,Customer 127,Kolkata,5
+ORD1640,Customer 268,Female,37,Delhi,Clothing,5,919.96,20,Cash on Delivery,05-06-2025,4,,NO COUPON RECORDED,Customer 268,Delhi,20
+ORD1353,Customer 174,Female,27,Mumbai,Furniture,2,3233.58,,Debit Card,09-10-2025,2,,NO COUPON RECORDED,Customer 174,Mumbai,
+ORD1240,Customer 56,Female,26,Chennai,Books,4,1620.2,15,Credit Card,15-05-2025,1,,NO COUPON RECORDED,Customer 56,Chennai,15
+ORD1666,Customer 201,,35,Kolkata,Furniture,4,1703.22,5,Debit Card,21-06-2025,,,NO COUPON RECORDED,Customer 201,Kolkata,5
+ORD1807,Customer 45,Male,35,Kolkata,Electronics,2,1314.07,15,Credit Card,24-05-2025,,,NO COUPON RECORDED,Customer 45,Kolkata,15
+ORD1262,Customer 120,Male,41,Chennai,Furniture,1,232.53,0,Debit Card,29-12-2025,,,NO COUPON RECORDED,Customer 120,Chennai,0
+ORD1098,Customer 255,Male,34,Pune,Groceries,6,319.81,15,Debit Card,14-12-2025,,SAVE10,SAVE10,Customer 255,Pune,15
+ORD1812,Customer 274,Female,50,Kolkata,Books,6,473.96,5,,25-03-2025,3,,NO COUPON RECORDED,Customer 274,Kolkata,5
+ORD1979,Customer 226,Female,27,Chennai,Clothing,4,282,15,UPI,17-11-2025,,,NO COUPON RECORDED,Customer 226,Chennai,15
+ORD1951,Customer 122,Female,32,Hyderabad,Clothing,6,1408.15,10,UPI,09-11-2025,4,,NO COUPON RECORDED,Customer 122,Hyderabad,10
+ORD1089,Customer 333,Male,36,Pune,Electronics,5,1854.66,10,Debit Card,07-11-2025,,,NO COUPON RECORDED,Customer 333,Pune,10
+ORD1515,Customer 43,Female,36,Pune,Books,1,1053.14,0,Debit Card,10-09-2025,,,NO COUPON RECORDED,Customer 43,Pune,0
+ORD1331,Customer 148,Female,23,Hyderabad,Books,3,2013.26,15,UPI,20-01-2025,,,NO COUPON RECORDED,Customer 148,Hyderabad,15
+ORD1985,Customer 261,Female,17,Mumbai,Electronics,6,548.13,10,Debit Card,25-02-2025,,,NO COUPON RECORDED,Customer 261,Mumbai,10
+ORD1433,Customer 53,Female,47,Kolkata,Furniture,5,4081.37,0,Debit Card,14-01-2025,5,,NO COUPON RECORDED,Customer 53,Kolkata,0
+ORD1924,Customer 100,Male,27,Mumbai,Books,3,482.13,20,Cash on Delivery,07-10-2025,,,NO COUPON RECORDED,Customer 100,Mumbai,20
+ORD1658,Customer 29,Female,46,Chennai,Furniture,6,770.43,20,Cash on Delivery,11-09-2025,5,,NO COUPON RECORDED,Customer 29,Chennai,20
+ORD1700,Customer 208,Male,35,Delhi,Furniture,2,2474.37,15,Debit Card,11-05-2025,2,,NO COUPON RECORDED,Customer 208,Delhi,15
+ORD1916,Customer 217,Male,36,Hyderabad,Furniture,6,536.46,5,Cash on Delivery,07-09-2025,,SAVE10,SAVE10,Customer 217,Hyderabad,5
+ORD1823,Customer 260,Female,18,Kolkata,Groceries,3,252.34,20,Debit Card,07-04-2025,3,,NO COUPON RECORDED,Customer 260,Kolkata,20
+ORD1260,Customer 317,Male,29,Kolkata,Books,4,1948.23,10,UPI,17-01-2025,2,,NO COUPON RECORDED,Customer 317,Kolkata,10
+ORD1305,Customer 56,Female,31,Pune,Clothing,5,767.42,5,Credit Card,26-01-2025,5,,NO COUPON RECORDED,Customer 56,Pune,5
+ORD1974,Customer 60,Female,36,Chennai,Groceries,3,1026.74,5,Debit Card,08-07-2025,1,,NO COUPON RECORDED,Customer 60,Chennai,5
+ORD1196,Customer 137,Female,20,Kolkata,Furniture,2,1138.02,15,UPI,22-12-2025,,,NO COUPON RECORDED,Customer 137,Kolkata,15
+ORD1140,Customer 393,Female,27,Hyderabad,Furniture,2,1959.74,5,,14-07-2025,4,,NO COUPON RECORDED,Customer 393,Hyderabad,5
+ORD1594,Customer 128,Female,36,Chennai,Books,3,539.2,0,,19-11-2025,3,,NO COUPON RECORDED,Customer 128,Chennai,0
+ORD1122,Customer 262,Male,32,Delhi,Clothing,4,2507.52,0,Credit Card,30-03-2025,4,,NO COUPON RECORDED,Customer 262,Delhi,0
+ORD1494,Customer 116,Male,28,Chennai,Clothing,2,1107.67,15,Debit Card,11-11-2025,4,,NO COUPON RECORDED,Customer 116,Chennai,15
+ORD1110,,Female,63,Pune,Groceries,5,1263.5,0,Cash on Delivery,10-12-2025,4,,NO COUPON RECORDED,Unknown,Pune,0
+ORD1084,Customer 252,Male,33,Bengaluru,Furniture,5,1458.85,5,Debit Card,09-02-2025,5,,NO COUPON RECORDED,Customer 252,Bengaluru,5
+ORD1855,Customer 339,Female,47,Hyderabad,Electronics,5,4246.51,0,Credit Card,,,,NO COUPON RECORDED,Customer 339,Hyderabad,0
+ORD1513,Customer 326,Male,39,Hyderabad,Books,7,1924.5,10,Debit Card,27-10-2025,4,,NO COUPON RECORDED,Customer 326,Hyderabad,10
+ORD1482,Customer 100,Male,29,Delhi,Electronics,7,749.5,15,Cash on Delivery,14-05-2025,5,,NO COUPON RECORDED,Customer 100,Delhi,15
+ORD1746,Customer 213,Female,34,Delhi,Furniture,4,1522.26,10,Credit Card,19-02-2025,4,,NO COUPON RECORDED,Customer 213,Delhi,10
+ORD1074,Customer 274,,45,Hyderabad,Books,6,1247.9,0,Debit Card,24-10-2025,4,,NO COUPON RECORDED,Customer 274,Hyderabad,0
+ORD1800,Customer 5,Male,43,Bengaluru,Clothing,4,2779.34,10,Debit Card,04-02-2025,4,,NO COUPON RECORDED,Customer 5,Bengaluru,10
+ORD1273,Customer 383,Female,48,Hyderabad,Groceries,7,587.01,0,UPI,13-08-2025,5,,NO COUPON RECORDED,Customer 383,Hyderabad,0
+ORD1396,Customer 18,Female,35,Hyderabad,Books,5,2171.97,0,Credit Card,19-02-2025,4,SAVE10,SAVE10,Customer 18,Hyderabad,0
+ORD1154,Customer 174,Male,35,Bengaluru,Electronics,6,1404.17,10,Debit Card,15-06-2025,4,,NO COUPON RECORDED,Customer 174,Bengaluru,10
+ORD1191,Customer 252,Male,10,Pune,Furniture,5,663.77,5,Cash on Delivery,21-04-2025,2,,NO COUPON RECORDED,Customer 252,Pune,5
+ORD1242,Customer 38,Female,38,Delhi,Clothing,5,1726.3,15,Debit Card,17-12-2025,3,SAVE10,SAVE10,Customer 38,Delhi,15
+ORD1187,Customer 153,Female,42,Chennai,Electronics,5,625.73,5,Credit Card,08-10-2025,3,,NO COUPON RECORDED,Customer 153,Chennai,5
+ORD1050,Customer 304,Female,32,Delhi,Electronics,7,735.72,5,,17-04-2025,2,,NO COUPON RECORDED,Customer 304,Delhi,5
+ORD1038,Customer 111,Male,38,Chennai,Groceries,3,3418.17,10,Cash on Delivery,14-08-2025,1,,NO COUPON RECORDED,Customer 111,Chennai,10
+ORD1418,Customer 119,Female,36,Chennai,Books,4,2193.15,,Cash on Delivery,23-04-2025,,,NO COUPON RECORDED,Customer 119,Chennai,
+ORD1963,Customer 87,Female,18,Pune,Clothing,5,523.99,5,Cash on Delivery,22-01-2025,4,,NO COUPON RECORDED,Customer 87,Pune,5
+ORD1208,,Male,19,Chennai,Furniture,2,1325.93,0,Cash on Delivery,28-06-2025,,,NO COUPON RECORDED,Unknown,Chennai,0
+ORD1375,Customer 38,Female,39,Chennai,Books,7,134.27,10,UPI,24-01-2025,,,NO COUPON RECORDED,Customer 38,Chennai,10
+ORD1463,Customer 168,Male,32,Mumbai,Groceries,3,471.03,5,Credit Card,31-05-2025,4,,NO COUPON RECORDED,Customer 168,Mumbai,5
+ORD1470,Customer 295,Female,5,Delhi,Groceries,2,1833.26,10,Credit Card,31-10-2025,5,,NO COUPON RECORDED,Customer 295,Delhi,10
+ORD1517,Customer 27,Male,43,Chennai,Electronics,7,226.78,5,Cash on Delivery,18-02-2025,3,,NO COUPON RECORDED,Customer 27,Chennai,5
+ORD1075,Customer 190,Male,42,,Furniture,2,4098.96,20,Debit Card,07-01-2025,,,NO COUPON RECORDED,Customer 190,Unknown,20
+ORD1248,Customer 314,Male,21,Pune,Furniture,4,632.99,,Debit Card,27-02-2025,,,NO COUPON RECORDED,Customer 314,Pune,
+ORD1559,Customer 340,Female,35,Chennai,Electronics,6,530.36,20,UPI,19-09-2025,5,SAVE10,SAVE10,Customer 340,Chennai,20
+ORD1302,Customer 4,Female,41,Hyderabad,Clothing,1,750000,5,Credit Card,31-10-2025,,,NO COUPON RECORDED,Customer 4,Hyderabad,5
+ORD1582,Customer 43,Female,39,Mumbai,Clothing,7,1899.91,5,UPI,01-07-2025,4,,NO COUPON RECORDED,Customer 43,Mumbai,5
+ORD1811,Customer 351,Female,24,Bengaluru,Books,6,556.23,0,Credit Card,02-11-2025,2,,NO COUPON RECORDED,Customer 351,Bengaluru,0
+ORD1335,Customer 323,Female,35,Pune,Furniture,4,2795.59,10,Credit Card,05-02-2025,5,,NO COUPON RECORDED,Customer 323,Pune,10
+ORD1011,Customer 390,Female,21,Kolkata,Furniture,1,1138.21,5,Cash on Delivery,01-01-2025,4,,NO COUPON RECORDED,Customer 390,Kolkata,5
+ORD1485,Customer 93,Female,34,Pune,Books,1,902.09,10,UPI,,,SAVE10,SAVE10,Customer 93,Pune,10
+ORD1462,Customer 299,Male,42,Bengaluru,Furniture,6,168.71,15,Debit Card,07-09-2025,,,NO COUPON RECORDED,Customer 299,Bengaluru,15
+ORD1538,Customer 216,Female,40,Kolkata,Groceries,4,668.85,,UPI,26-09-2025,,,NO COUPON RECORDED,Customer 216,Kolkata,
+ORD1627,Customer 147,Female,39,Pune,Groceries,6,1940.63,15,UPI,22-03-2025,5,,NO COUPON RECORDED,Customer 147,Pune,15
+ORD1281,Customer 195,Female,33,Hyderabad,Books,3,1871.62,15,Credit Card,08-07-2025,4,,NO COUPON RECORDED,Customer 195,Hyderabad,15
+ORD1253,Customer 132,Female,35,Hyderabad,Books,6,766.14,15,Cash on Delivery,02-06-2025,5,,NO COUPON RECORDED,Customer 132,Hyderabad,15
+ORD1707,Customer 229,Female,33,Chennai,Electronics,3,1288.62,15,Credit Card,27-02-2025,4,,NO COUPON RECORDED,Customer 229,Chennai,15
+ORD1784,Customer 191,Female,29,Delhi,Clothing,1,996.18,20,Cash on Delivery,,,,NO COUPON RECORDED,Customer 191,Delhi,20
+ORD1507,Customer 99,Male,33,Kolkata,Books,2,1596.84,15,UPI,25-10-2025,3,,NO COUPON RECORDED,Customer 99,Kolkata,15
+ORD1219,Customer 361,,32,Kolkata,Books,3,1142.9,0,Cash on Delivery,18-05-2025,4,,NO COUPON RECORDED,Customer 361,Kolkata,0
+ORD1425,Customer 80,Female,30,Pune,Electronics,1,245.25,10,,08-03-2025,5,SAVE10,SAVE10,Customer 80,Pune,10
+ORD1369,Customer 309,Female,35,Kolkata,Books,4,1053.71,10,Debit Card,05-02-2025,4,,NO COUPON RECORDED,Customer 309,Kolkata,10
+ORD1868,Customer 179,,36,Kolkata,Electronics,1,4196.71,10,Cash on Delivery,08-05-2025,4,,NO COUPON RECORDED,Customer 179,Kolkata,10
+ORD1069,Customer 188,Male,45,Bengaluru,Books,4,1764.73,10,Debit Card,12-03-2025,5,,NO COUPON RECORDED,Customer 188,Bengaluru,10
+ORD1580,Customer 38,Male,27,Mumbai,Groceries,4,1464.52,20,Debit Card,15-06-2025,5,,NO COUPON RECORDED,Customer 38,Mumbai,20
+ORD1021,Customer 148,Male,32,Kolkata,Furniture,4,1926.29,5,Credit Card,20-07-2025,1,,NO COUPON RECORDED,Customer 148,Kolkata,5
+ORD1077,Customer 91,Male,35,Pune,Clothing,7,1568.97,0,Debit Card,,4,,NO COUPON RECORDED,Customer 91,Pune,0
+ORD1547,,Female,18,Kolkata,Groceries,5,895.1,10,Debit Card,31-10-2025,4,SAVE10,SAVE10,Unknown,Kolkata,10
+ORD1748,Customer 125,Female,36,Mumbai,Clothing,7,204.4,5,Cash on Delivery,31-07-2025,4,,NO COUPON RECORDED,Customer 125,Mumbai,5
+ORD1405,Customer 200,Male,39,Pune,Books,2,1373.95,15,Credit Card,12-08-2025,4,,NO COUPON RECORDED,Customer 200,Pune,15
+ORD1816,Customer 18,Male,25,Hyderabad,Groceries,2,1302.81,,Credit Card,19-10-2025,5,,NO COUPON RECORDED,Customer 18,Hyderabad,
+ORD1125,Customer 226,Female,43,Delhi,Clothing,7,895.89,10,UPI,01-12-2025,5,,NO COUPON RECORDED,Customer 226,Delhi,10
+ORD1228,Customer 219,Male,55,Pune,Groceries,2,530.83,15,,28-12-2025,,,NO COUPON RECORDED,Customer 219,Pune,15
+ORD1757,Customer 153,Female,46,Chennai,Electronics,1,817.23,5,Debit Card,13-07-2025,3,SAVE10,SAVE10,Customer 153,Chennai,5
+ORD1042,Customer 280,Male,39,Hyderabad,Clothing,3,2634.42,0,,14-04-2025,4,,NO COUPON RECORDED,Customer 280,Hyderabad,0
+ORD1516,Customer 352,,38,Chennai,Furniture,7,3122.32,15,UPI,04-05-2025,5,,NO COUPON RECORDED,Customer 352,Chennai,15
+ORD1572,,Female,50,Pune,Clothing,7,1364.66,5,Debit Card,04-07-2025,5,,NO COUPON RECORDED,Unknown,Pune,5
+ORD1576,Customer 370,Female,34,Pune,Furniture,1,850.29,,Cash on Delivery,24-06-2025,5,,NO COUPON RECORDED,Customer 370,Pune,
+ORD1881,Customer 340,Male,31,Chennai,Electronics,1,1130.37,10,UPI,20-12-2025,,,NO COUPON RECORDED,Customer 340,Chennai,10
+ORD1621,Customer 191,Male,25,Delhi,Electronics,5,1012.96,,Debit Card,18-06-2025,4,,NO COUPON RECORDED,Customer 191,Delhi,
+ORD1743,Customer 108,Male,29,Kolkata,Furniture,4,603.68,10,UPI,18-11-2025,4,SAVE10,SAVE10,Customer 108,Kolkata,10
+ORD1205,Customer 107,Female,35,Kolkata,Furniture,4,390.49,5,,06-04-2025,4,,NO COUPON RECORDED,Customer 107,Kolkata,5
+ORD1316,Customer 292,Female,43,Kolkata,Furniture,3,289.05,10,UPI,30-03-2025,5,,NO COUPON RECORDED,Customer 292,Kolkata,10
+ORD1148,Customer 328,Female,36,Bengaluru,Books,7,1713.1,15,UPI,21-07-2025,,SAVE10,SAVE10,Customer 328,Bengaluru,15
+ORD1006,Customer 35,Female,41,Bengaluru,Furniture,7,651.25,10,Cash on Delivery,21-03-2025,4,SAVE10,SAVE10,Customer 35,Bengaluru,10
+ORD1493,Customer 241,Male,45,Kolkata,Groceries,4,1868.08,5,Cash on Delivery,30-12-2025,,,NO COUPON RECORDED,Customer 241,Kolkata,5
+ORD1780,Customer 351,Male,38,Chennai,Furniture,4,1127.03,15,Cash on Delivery,24-04-2025,4,,NO COUPON RECORDED,Customer 351,Chennai,15
+ORD1500,Customer 46,Female,21,Hyderabad,Groceries,3,471.06,5,Cash on Delivery,09-07-2025,4,,NO COUPON RECORDED,Customer 46,Hyderabad,5
+ORD1368,Customer 9,Female,54,Kolkata,Books,2,2146,0,Debit Card,17-02-2025,1,,NO COUPON RECORDED,Customer 9,Kolkata,0
+ORD1808,Customer 156,Male,38,Delhi,Books,4,1029.69,20,Credit Card,21-08-2025,5,,NO COUPON RECORDED,Customer 156,Delhi,20
+ORD1259,Customer 235,Female,42,Bengaluru,Groceries,2,3229.67,0,Debit Card,17-02-2025,,SAVE10,SAVE10,Customer 235,Bengaluru,0
+ORD1282,Customer 268,Male,19,Hyderabad,Furniture,6,974.91,15,Cash on Delivery,16-08-2025,4,,NO COUPON RECORDED,Customer 268,Hyderabad,15
+ORD1634,Customer 73,Male,46,Delhi,Clothing,5,1267.94,5,Debit Card,06-11-2025,3,,NO COUPON RECORDED,Customer 73,Delhi,5
+ORD1590,Customer 320,Female,43,Bengaluru,Clothing,2,1282.16,15,Credit Card,09-07-2025,,,NO COUPON RECORDED,Customer 320,Bengaluru,15
+ORD1969,Customer 15,Male,35,Bengaluru,Groceries,6,398.11,15,Credit Card,29-09-2025,4,SAVE10,SAVE10,Customer 15,Bengaluru,15
+ORD1474,Customer 254,Female,39,Mumbai,Books,3,300.49,5,UPI,27-02-2025,4,,NO COUPON RECORDED,Customer 254,Mumbai,5
+ORD1320,Customer 128,Male,35,Delhi,Furniture,2,875.13,10,Credit Card,02-03-2025,3,,NO COUPON RECORDED,Customer 128,Delhi,10
+ORD1940,Customer 276,Male,36,Pune,Groceries,1,316.15,20,Debit Card,06-07-2025,,,NO COUPON RECORDED,Customer 276,Pune,20
+ORD1434,Customer 174,Male,32,Kolkata,Clothing,3,277.94,5,UPI,04-10-2025,,,NO COUPON RECORDED,Customer 174,Kolkata,5
+ORD1663,Customer 81,Female,23,Delhi,Furniture,1,424.97,0,Cash on Delivery,02-05-2025,2,,NO COUPON RECORDED,Customer 81,Delhi,0
+ORD1299,Customer 9,,27,Mumbai,Furniture,7,1336.23,15,UPI,02-08-2025,4,,NO COUPON RECORDED,Customer 9,Mumbai,15
+ORD1948,Customer 379,Male,5,Hyderabad,Clothing,2,751.48,20,Cash on Delivery,19-05-2025,3,,NO COUPON RECORDED,Customer 379,Hyderabad,20
+ORD1436,Customer 227,Male,30,Kolkata,Books,2,1531.34,0,Debit Card,17-04-2025,4,,NO COUPON RECORDED,Customer 227,Kolkata,0
+ORD1675,Customer 290,Female,11,Kolkata,Furniture,3,2039.79,,Cash on Delivery,16-04-2025,3,,NO COUPON RECORDED,Customer 290,Kolkata,
+ORD1438,Customer 33,Male,42,Chennai,Groceries,2,1410.97,0,Credit Card,02-05-2025,5,,NO COUPON RECORDED,Customer 33,Chennai,0
+ORD1325,Customer 92,Male,35,Delhi,Clothing,5,737.02,10,Debit Card,15-02-2025,4,,NO COUPON RECORDED,Customer 92,Delhi,10
+ORD1403,Customer 388,Male,35,Bengaluru,Electronics,5,590.04,15,UPI,14-12-2025,3,,NO COUPON RECORDED,Customer 388,Bengaluru,15
+ORD1265,Customer 232,Male,23,Delhi,Furniture,6,583,20,,04-04-2025,5,,NO COUPON RECORDED,Customer 232,Delhi,20
+ORD1564,Customer 355,Female,38,Chennai,Books,2,1774.93,5,UPI,01-04-2025,2,,NO COUPON RECORDED,Customer 355,Chennai,5
+ORD1602,Customer 295,Female,19,Kolkata,Clothing,6,1754.27,15,Debit Card,26-03-2025,,,NO COUPON RECORDED,Customer 295,Kolkata,15
+ORD1896,Customer 204,Female,45,Pune,Electronics,2,2530.2,15,Debit Card,02-04-2025,3,,NO COUPON RECORDED,Customer 204,Pune,15
+ORD1278,Customer 26,Male,36,Kolkata,Electronics,2,978.84,20,Cash on Delivery,19-08-2025,,,NO COUPON RECORDED,Customer 26,Kolkata,20
+ORD1655,Customer 213,Male,43,Kolkata,Electronics,4,1079.44,20,Credit Card,12-01-2025,4,,NO COUPON RECORDED,Customer 213,Kolkata,20
+ORD1835,Customer 310,Male,32,Hyderabad,Groceries,6,748.39,15,UPI,16-06-2025,4,,NO COUPON RECORDED,Customer 310,Hyderabad,15
+ORD1732,Customer 368,Female,37,Chennai,Furniture,4,1680.09,15,UPI,17-03-2025,5,,NO COUPON RECORDED,Customer 368,Chennai,15
+ORD1711,Customer 209,Male,28,Delhi,Clothing,5,17382.81,20,Cash on Delivery,31-01-2025,,SAVE10,SAVE10,Customer 209,Delhi,20
+ORD1553,Customer 127,Female,22,Mumbai,Books,1,367.16,10,Debit Card,07-07-2025,5,,NO COUPON RECORDED,Customer 127,Mumbai,10
+ORD1826,Customer 272,Male,32,Pune,Electronics,3,273.16,10,Debit Card,16-07-2025,,,NO COUPON RECORDED,Customer 272,Pune,10
+ORD1975,Customer 91,Male,23,Bengaluru,Electronics,6,3029.14,20,Credit Card,23-11-2025,4,,NO COUPON RECORDED,Customer 91,Bengaluru,20
+ORD1984,Customer 235,Female,37,Hyderabad,Electronics,7,961.14,15,Cash on Delivery,15-10-2025,1,,NO COUPON RECORDED,Customer 235,Hyderabad,15
+ORD1231,Customer 342,,50,Delhi,Furniture,1,1513.16,10,Debit Card,08-03-2025,5,,NO COUPON RECORDED,Customer 342,Delhi,10
+ORD1245,Customer 34,Female,33,Bengaluru,Clothing,6,5317.81,20,Debit Card,,2,,NO COUPON RECORDED,Customer 34,Bengaluru,20
+ORD1167,Customer 67,,33,Delhi,Books,1,694.43,10,Cash on Delivery,02-11-2025,4,,NO COUPON RECORDED,Customer 67,Delhi,10
+ORD1332,Customer 124,Male,25,Pune,Groceries,5,1397.5,10,Cash on Delivery,07-05-2025,4,,NO COUPON RECORDED,Customer 124,Pune,10
+ORD1274,Customer 167,Female,25,Kolkata,Electronics,3,1665.51,10,Cash on Delivery,01-08-2025,,,NO COUPON RECORDED,Customer 167,Kolkata,10
+ORD1897,Customer 22,Female,38,Pune,Groceries,4,1599.76,5,,29-10-2025,5,SAVE10,SAVE10,Customer 22,Pune,5
+ORD1775,Customer 380,Male,40,Bengaluru,Clothing,5,892.61,0,Debit Card,04-01-2025,,,NO COUPON RECORDED,Customer 380,Bengaluru,0
+ORD1426,Customer 345,Female,40,Pune,Furniture,6,437.32,,Debit Card,08-12-2025,,,NO COUPON RECORDED,Customer 345,Pune,
+ORD1541,Customer 23,Male,55,Delhi,Groceries,2,1307.04,20,Credit Card,05-07-2025,4,,NO COUPON RECORDED,Customer 23,Delhi,20
+ORD1750,Customer 384,Female,30,Mumbai,Clothing,7,2874.42,10,UPI,07-10-2025,4,,NO COUPON RECORDED,Customer 384,Mumbai,10
+ORD1762,Customer 379,Male,35,Bengaluru,Groceries,5,1738.94,,Debit Card,23-07-2025,,,NO COUPON RECORDED,Customer 379,Bengaluru,
+ORD1162,Customer 164,Female,14,Mumbai,Books,3,4632.22,10,Credit Card,15-11-2025,5,,NO COUPON RECORDED,Customer 164,Mumbai,10
+ORD1149,,Female,46,Delhi,Furniture,2,376.14,0,UPI,06-06-2025,4,,NO COUPON RECORDED,Unknown,Delhi,0
+ORD1226,Customer 323,Male,43,Delhi,Electronics,5,910.25,0,Cash on Delivery,28-10-2025,5,,NO COUPON RECORDED,Customer 323,Delhi,0
+ORD1685,Customer 320,Female,40,Delhi,Groceries,4,673.84,5,Debit Card,10-08-2025,4,,NO COUPON RECORDED,Customer 320,Delhi,5
+ORD1768,Customer 56,,44,Pune,Furniture,6,214.29,10,Debit Card,18-10-2025,4,,NO COUPON RECORDED,Customer 56,Pune,10
+ORD1221,Customer 182,Female,41,Mumbai,Furniture,3,1346.62,5,Debit Card,16-08-2025,5,,NO COUPON RECORDED,Customer 182,Mumbai,5
+ORD1597,Customer 312,Female,26,Pune,Electronics,7,1822.14,15,Credit Card,02-05-2025,2,,NO COUPON RECORDED,Customer 312,Pune,15
+ORD1699,Customer 38,Female,37,Kolkata,Clothing,3,501.8,5,Credit Card,,,SAVE10,SAVE10,Customer 38,Kolkata,5
+ORD1473,Customer 187,Male,28,Delhi,Clothing,7,911.56,15,Cash on Delivery,20-10-2025,1,,NO COUPON RECORDED,Customer 187,Delhi,15
+ORD1504,Customer 110,Female,46,Bengaluru,Electronics,6,1505.97,0,Credit Card,24-10-2025,4,,NO COUPON RECORDED,Customer 110,Bengaluru,0
+ORD1601,,Female,42,Delhi,Groceries,4,758,,,20-07-2025,,,NO COUPON RECORDED,Unknown,Delhi,
+ORD1960,Customer 62,Female,25,Mumbai,Electronics,7,1268.91,15,Debit Card,17-07-2025,5,,NO COUPON RECORDED,Customer 62,Mumbai,15
+ORD1217,Customer 39,,35,Mumbai,Books,2,800.76,10,Debit Card,14-10-2025,,SAVE10,SAVE10,Customer 39,Mumbai,10
+ORD1072,Customer 185,Female,42,Bengaluru,Groceries,5,1823.79,10,Debit Card,23-01-2025,5,,NO COUPON RECORDED,Customer 185,Bengaluru,10
+ORD1817,Customer 43,Male,35,Kolkata,Books,7,1637.05,10,Cash on Delivery,23-02-2025,4,,NO COUPON RECORDED,Customer 43,Kolkata,10
+ORD1220,Customer 51,Female,39,Delhi,Furniture,6,3441.37,5,Debit Card,08-04-2025,5,,NO COUPON RECORDED,Customer 51,Delhi,5
+ORD1213,Customer 180,Female,22,Kolkata,Books,2,653.32,5,UPI,23-05-2025,,,NO COUPON RECORDED,Customer 180,Kolkata,5
+ORD1945,Customer 48,Male,41,Hyderabad,Electronics,5,188.26,,Credit Card,28-08-2025,,,NO COUPON RECORDED,Customer 48,Hyderabad,
+ORD1394,Customer 288,Male,44,Chennai,Clothing,7,842.82,10,Credit Card,05-08-2025,4,,NO COUPON RECORDED,Customer 288,Chennai,10
+ORD1872,Customer 46,Female,26,Hyderabad,Electronics,2,615.3,10,Debit Card,19-04-2025,,,NO COUPON RECORDED,Customer 46,Hyderabad,10
+ORD1367,Customer 127,Male,39,Hyderabad,Electronics,3,471.37,10,Credit Card,30-12-2025,3,,NO COUPON RECORDED,Customer 127,Hyderabad,10
+ORD1012,Customer 294,Male,39,Chennai,Books,5,1154.22,20,Credit Card,03-02-2025,,SAVE10,SAVE10,Customer 294,Chennai,20
+ORD1933,Customer 260,Female,29,Delhi,Groceries,7,680.55,5,Credit Card,16-06-2025,3,,NO COUPON RECORDED,Customer 260,Delhi,5
+ORD1343,Customer 206,Female,23,Kolkata,Clothing,2,1697.43,5,,01-06-2025,5,,NO COUPON RECORDED,Customer 206,Kolkata,5
+ORD1198,Customer 136,Female,26,Hyderabad,Books,5,2926.47,10,Debit Card,24-02-2025,5,,NO COUPON RECORDED,Customer 136,Hyderabad,10
+ORD1725,Customer 47,Female,21,Delhi,Electronics,4,700.81,5,Debit Card,12-02-2025,3,,NO COUPON RECORDED,Customer 47,Delhi,5
+ORD1696,Customer 289,Male,53,Chennai,Books,7,2460.33,15,Cash on Delivery,30-06-2025,5,SAVE10,SAVE10,Customer 289,Chennai,15
+ORD1234,Customer 197,Female,30,Chennai,Groceries,6,958.07,10,Credit Card,17-02-2025,1,,NO COUPON RECORDED,Customer 197,Chennai,10
+ORD1695,Customer 102,Female,34,Mumbai,Clothing,5,1021.88,,UPI,23-03-2025,4,,NO COUPON RECORDED,Customer 102,Mumbai,
+ORD1420,Customer 371,Female,24,Hyderabad,Furniture,1,1759.68,10,Cash on Delivery,13-05-2025,4,,NO COUPON RECORDED,Customer 371,Hyderabad,10
+ORD1911,Customer 74,Female,49,,Furniture,3,2690.35,,UPI,26-06-2025,5,,NO COUPON RECORDED,Customer 74,Unknown,
+ORD1962,Customer 336,Male,42,Pune,Books,4,463.9,0,Credit Card,20-09-2025,5,,NO COUPON RECORDED,Customer 336,Pune,0
+ORD1608,Customer 386,Male,22,Mumbai,Clothing,2,629.83,20,Debit Card,19-11-2025,,,NO COUPON RECORDED,Customer 386,Mumbai,20
+ORD1744,Customer 318,Male,12,Kolkata,Clothing,4,465.58,5,UPI,23-07-2025,4,,NO COUPON RECORDED,Customer 318,Kolkata,5
+ORD1297,Customer 176,Female,35,Bengaluru,Books,7,1818.74,15,Credit Card,05-03-2025,5,SAVE10,SAVE10,Customer 176,Bengaluru,15
+ORD1063,Customer 387,Female,47,Pune,Furniture,4,1330.3,15,UPI,01-04-2025,,,NO COUPON RECORDED,Customer 387,Pune,15
+ORD1734,Customer 84,Female,30,Bengaluru,Clothing,3,915.57,15,Debit Card,17-07-2025,5,SAVE10,SAVE10,Customer 84,Bengaluru,15
+ORD1607,Customer 206,Female,20,Delhi,Clothing,1,1081.3,0,,07-07-2025,5,,NO COUPON RECORDED,Customer 206,Delhi,0
+ORD1013,Customer 304,Male,40,Chennai,Clothing,3,813.42,0,,18-12-2025,2,,NO COUPON RECORDED,Customer 304,Chennai,0
+ORD1839,Customer 364,Female,40,Hyderabad,Furniture,4,946.44,20,Credit Card,17-01-2025,4,,NO COUPON RECORDED,Customer 364,Hyderabad,20
+ORD1435,Customer 50,Male,35,Chennai,Books,4,457.58,10,Credit Card,20-05-2025,5,,NO COUPON RECORDED,Customer 50,Chennai,10
+ORD1017,Customer 52,Male,39,Chennai,Electronics,3,2399.16,20,Debit Card,07-08-2025,4,,NO COUPON RECORDED,Customer 52,Chennai,20
+ORD1764,Customer 144,Female,35,Delhi,Clothing,2,3047.34,5,Debit Card,24-08-2025,4,SAVE10,SAVE10,Customer 144,Delhi,5
+ORD1958,Customer 388,Female,35,Mumbai,Books,7,297.91,20,UPI,04-03-2025,,,NO COUPON RECORDED,Customer 388,Mumbai,20
+ORD1758,Customer 52,Female,36,Delhi,Books,3,612.74,20,UPI,21-07-2025,5,,NO COUPON RECORDED,Customer 52,Delhi,20
+ORD1779,Customer 340,Female,29,Hyderabad,Books,6,833.11,20,Credit Card,21-04-2025,,,NO COUPON RECORDED,Customer 340,Hyderabad,20
+ORD1348,Customer 73,Female,53,Mumbai,Furniture,7,1035.94,10,Credit Card,11-10-2025,4,,NO COUPON RECORDED,Customer 73,Mumbai,10
+ORD1207,,Female,34,Pune,Clothing,5,3194.24,15,Credit Card,17-09-2025,3,,NO COUPON RECORDED,Unknown,Pune,15
+ORD1090,Customer 174,Female,39,Delhi,Furniture,2,612.84,10,Cash on Delivery,21-09-2025,,,NO COUPON RECORDED,Customer 174,Delhi,10
+ORD1307,Customer 222,Male,29,Mumbai,Books,5,3772.75,10,UPI,13-03-2025,5,,NO COUPON RECORDED,Customer 222,Mumbai,10
+ORD1341,Customer 117,Male,7,Hyderabad,Electronics,4,374.23,0,,15-07-2025,3,,NO COUPON RECORDED,Customer 117,Hyderabad,0
+ORD1380,Customer 3,Female,28,Mumbai,Electronics,6,1358.36,15,Debit Card,30-12-2025,,,NO COUPON RECORDED,Customer 3,Mumbai,15
+ORD1344,Customer 362,Male,43,Pune,Groceries,1,2623.8,20,Cash on Delivery,22-10-2025,3,,NO COUPON RECORDED,Customer 362,Pune,20
+ORD1471,Customer 321,Female,23,Chennai,Electronics,6,1863.14,15,Debit Card,30-09-2025,,,NO COUPON RECORDED,Customer 321,Chennai,15
+ORD1884,Customer 325,Female,37,Hyderabad,Groceries,2,1071.76,,Cash on Delivery,05-09-2025,3,,NO COUPON RECORDED,Customer 325,Hyderabad,
+ORD1907,Customer 70,Male,24,Hyderabad,Clothing,6,752.4,0,Credit Card,18-05-2025,4,,NO COUPON RECORDED,Customer 70,Hyderabad,0
+ORD1926,Customer 216,Male,13,Delhi,Clothing,5,2154.15,20,Debit Card,08-12-2025,4,,NO COUPON RECORDED,Customer 216,Delhi,20
+ORD1551,Customer 158,Female,32,Hyderabad,Clothing,3,893.81,10,Debit Card,03-10-2025,,,NO COUPON RECORDED,Customer 158,Hyderabad,10
+ORD1693,Customer 378,Male,59,Pune,Groceries,5,1458.8,0,Credit Card,24-04-2025,3,,NO COUPON RECORDED,Customer 378,Pune,0
+ORD1032,Customer 37,Female,43,Hyderabad,Books,1,382.98,5,Cash on Delivery,21-11-2025,4,,NO COUPON RECORDED,Customer 37,Hyderabad,5
+ORD1372,Customer 164,Male,33,Delhi,Books,4,919.17,10,Debit Card,26-09-2025,5,,NO COUPON RECORDED,Customer 164,Delhi,10
+ORD1657,Customer 253,Female,37,Mumbai,Groceries,3,277.83,5,Credit Card,24-08-2025,2,SAVE10,SAVE10,Customer 253,Mumbai,5
+ORD1670,Customer 381,Female,45,Chennai,Clothing,1,1723.22,20,Credit Card,20-03-2025,4,SAVE10,SAVE10,Customer 381,Chennai,20
+ORD1172,Customer 308,Male,35,Bengaluru,Books,5,360.82,,UPI,19-08-2025,4,,NO COUPON RECORDED,Customer 308,Bengaluru,
+ORD1935,Customer 376,,41,Pune,Books,4,2380.33,,UPI,13-02-2025,4,,NO COUPON RECORDED,Customer 376,Pune,
+ORD1936,Customer 64,Male,34,Delhi,Electronics,2,1569.71,5,,06-08-2025,,,NO COUPON RECORDED,Customer 64,Delhi,5
+ORD1408,Customer 373,Male,39,Pune,Furniture,2,849.85,5,UPI,24-01-2025,5,,NO COUPON RECORDED,Customer 373,Pune,5
+ORD1913,Customer 392,Female,42,Chennai,Clothing,3,744.09,0,Debit Card,09-02-2025,5,,NO COUPON RECORDED,Customer 392,Chennai,0
+ORD1991,Customer 220,Male,32,Pune,Electronics,6,2022.87,0,Cash on Delivery,05-03-2025,4,,NO COUPON RECORDED,Customer 220,Pune,0
+ORD1200,Customer 147,Female,53,Hyderabad,Clothing,3,1961.57,15,Debit Card,09-11-2025,,,NO COUPON RECORDED,Customer 147,Hyderabad,15
+ORD1893,Customer 392,Female,42,Mumbai,Furniture,1,1203.72,20,Credit Card,02-07-2025,5,,NO COUPON RECORDED,Customer 392,Mumbai,20
+ORD1292,Customer 381,Male,30,Pune,Clothing,6,2317.14,15,Debit Card,03-11-2025,5,,NO COUPON RECORDED,Customer 381,Pune,15
+ORD1860,Customer 387,Female,51,Kolkata,Electronics,1,770.1,5,Debit Card,20-12-2025,,,NO COUPON RECORDED,Customer 387,Kolkata,5
+ORD1583,Customer 21,Male,19,Bengaluru,Clothing,7,4351.45,10,Credit Card,27-02-2025,5,,NO COUPON RECORDED,Customer 21,Bengaluru,10
+ORD1510,Customer 397,Male,20,Kolkata,Electronics,7,1202.48,0,UPI,31-12-2025,,,NO COUPON RECORDED,Customer 397,Kolkata,0
+ORD1999,Customer 205,Male,37,Delhi,Books,5,331.86,10,Debit Card,08-01-2025,2,,NO COUPON RECORDED,Customer 205,Delhi,10
+ORD1929,Customer 231,Female,19,Mumbai,Groceries,6,5238.31,5,Credit Card,11-11-2025,4,,NO COUPON RECORDED,Customer 231,Mumbai,5
+ORD1967,Customer 127,Male,21,Bengaluru,Clothing,6,756.32,10,Credit Card,28-10-2025,,,NO COUPON RECORDED,Customer 127,Bengaluru,10
+ORD1618,Customer 25,Male,19,Pune,Groceries,7,951.83,,UPI,23-08-2025,4,,NO COUPON RECORDED,Customer 25,Pune,
+ORD1489,Customer 242,Female,58,Pune,Books,1,1504.38,5,Credit Card,22-09-2025,3,,NO COUPON RECORDED,Customer 242,Pune,5
+ORD1863,Customer 309,Male,42,Bengaluru,Electronics,3,3056.63,0,Cash on Delivery,29-03-2025,,,NO COUPON RECORDED,Customer 309,Bengaluru,0
+ORD1964,Customer 379,Female,31,Pune,Books,3,432.89,20,UPI,28-12-2025,5,,NO COUPON RECORDED,Customer 379,Pune,20
+ORD1959,Customer 165,Male,29,Delhi,Books,1,3934.83,15,Debit Card,,,,NO COUPON RECORDED,Customer 165,Delhi,15
+ORD1133,Customer 224,Female,46,Delhi,Electronics,5,957.28,15,UPI,14-07-2025,4,,NO COUPON RECORDED,Customer 224,Delhi,15
+ORD1060,Customer 369,Female,35,Bengaluru,Clothing,5,415.76,0,Credit Card,,5,SAVE10,SAVE10,Customer 369,Bengaluru,0
+ORD1690,Customer 398,Female,17,Kolkata,Books,7,654.27,20,UPI,25-12-2025,,,NO COUPON RECORDED,Customer 398,Kolkata,20
+ORD1026,Customer 161,Male,35,Delhi,Clothing,3,1324.86,5,Cash on Delivery,16-09-2025,4,,NO COUPON RECORDED,Customer 161,Delhi,5
+ORD1905,Customer 284,Male,29,Mumbai,Furniture,6,553.36,15,Cash on Delivery,16-01-2025,3,,NO COUPON RECORDED,Customer 284,Mumbai,15
+ORD1100,Customer 333,Male,40,Hyderabad,Electronics,1,3823.61,15,Cash on Delivery,27-09-2025,3,,NO COUPON RECORDED,Customer 333,Hyderabad,15
+ORD1531,Customer 67,Male,42,Mumbai,Clothing,4,3204.15,15,Credit Card,25-05-2025,4,SAVE10,SAVE10,Customer 67,Mumbai,15
+ORD1588,Customer 335,Female,29,Hyderabad,Groceries,7,848.28,20,Cash on Delivery,06-05-2025,1,,NO COUPON RECORDED,Customer 335,Hyderabad,20
+ORD1664,Customer 239,Female,35,Kolkata,Groceries,5,1705.42,10,Credit Card,16-05-2025,,,NO COUPON RECORDED,Customer 239,Kolkata,10
+ORD1776,,Male,22,Chennai,Electronics,6,1104.42,15,Cash on Delivery,20-02-2025,3,,NO COUPON RECORDED,Unknown,Chennai,15
+ORD1788,Customer 218,Male,41,Bengaluru,Furniture,3,4338.51,5,UPI,23-08-2025,4,,NO COUPON RECORDED,Customer 218,Bengaluru,5
+ORD1520,Customer 143,Female,21,Bengaluru,Furniture,2,613.02,10,Cash on Delivery,24-11-2025,3,,NO COUPON RECORDED,Customer 143,Bengaluru,10
+ORD1363,Customer 357,Male,16,Kolkata,Books,5,1954.25,,Debit Card,14-03-2025,,,NO COUPON RECORDED,Customer 357,Kolkata,
+ORD1309,Customer 44,Female,29,Pune,Books,1,750.5,20,Cash on Delivery,08-10-2025,4,,NO COUPON RECORDED,Customer 44,Pune,20
+ORD1795,Customer 118,Male,29,Pune,Clothing,1,1533.09,15,Debit Card,01-04-2025,5,SAVE10,SAVE10,Customer 118,Pune,15
+ORD1950,Customer 38,Female,45,Hyderabad,Books,3,5196.86,20,Credit Card,04-02-2025,3,,NO COUPON RECORDED,Customer 38,Hyderabad,20
+ORD1828,Customer 345,,32,Kolkata,Furniture,5,3673.53,20,UPI,13-07-2025,2,,NO COUPON RECORDED,Customer 345,Kolkata,20
+ORD1604,Customer 330,Male,33,Hyderabad,Clothing,4,614.21,20,Debit Card,28-11-2025,5,,NO COUPON RECORDED,Customer 330,Hyderabad,20
+ORD1252,Customer 76,Male,48,Kolkata,Furniture,1,1223.44,5,Cash on Delivery,28-09-2025,4,,NO COUPON RECORDED,Customer 76,Kolkata,5
+ORD1544,Customer 332,Male,40,Delhi,Furniture,2,642.48,0,Credit Card,17-11-2025,,,NO COUPON RECORDED,Customer 332,Delhi,0
+ORD1481,Customer 331,Male,32,Delhi,Books,2,7615.63,0,Debit Card,23-03-2025,4,,NO COUPON RECORDED,Customer 331,Delhi,0
+ORD1441,Customer 121,Female,35,Kolkata,Clothing,4,482.45,20,Cash on Delivery,01-02-2025,1,,NO COUPON RECORDED,Customer 121,Kolkata,20
+ORD1476,,,49,,Books,1,306.16,15,UPI,04-11-2025,,,NO COUPON RECORDED,Unknown,Unknown,15
+ORD1022,,Female,30,Bengaluru,Groceries,1,5180.69,10,Credit Card,30-07-2025,,,NO COUPON RECORDED,Unknown,Bengaluru,10
+ORD1062,Customer 147,,35,Mumbai,Books,4,875.14,10,Debit Card,03-10-2025,,,NO COUPON RECORDED,Customer 147,Mumbai,10
+ORD1483,Customer 318,Male,32,Chennai,Electronics,4,381.33,0,Cash on Delivery,14-01-2025,4,,NO COUPON RECORDED,Customer 318,Chennai,0
+ORD1727,Customer 35,Female,23,Mumbai,Furniture,3,3198.88,10,Debit Card,03-11-2025,4,,NO COUPON RECORDED,Customer 35,Mumbai,10
+ORD1989,Customer 315,Female,44,Pune,Clothing,4,3250.45,10,Cash on Delivery,04-12-2025,4,,NO COUPON RECORDED,Customer 315,Pune,10
+ORD1786,Customer 13,Male,29,Mumbai,Groceries,6,2885.97,15,Debit Card,24-09-2025,,,NO COUPON RECORDED,Customer 13,Mumbai,15
+ORD1257,Customer 42,Female,26,Pune,Groceries,3,1543.77,,Credit Card,12-07-2025,,,NO COUPON RECORDED,Customer 42,Pune,
+ORD1052,Customer 146,Female,41,Pune,Furniture,3,2391.8,15,UPI,05-04-2025,,SAVE10,SAVE10,Customer 146,Pune,15
+ORD1173,Customer 289,Male,52,Kolkata,Books,2,3521.13,5,UPI,11-06-2025,3,,NO COUPON RECORDED,Customer 289,Kolkata,5
+ORD1178,Customer 360,Male,42,Delhi,Books,2,2057.43,20,,01-03-2025,,,NO COUPON RECORDED,Customer 360,Delhi,20
+ORD1679,Customer 374,Female,34,Hyderabad,Clothing,1,1123.12,10,UPI,26-02-2025,4,,NO COUPON RECORDED,Customer 374,Hyderabad,10
+ORD1738,Customer 295,Male,54,Kolkata,Electronics,1,1017.09,20,UPI,13-10-2025,,,NO COUPON RECORDED,Customer 295,Kolkata,20
+ORD1120,Customer 176,Male,20,Kolkata,Groceries,1,605.38,10,Credit Card,30-11-2025,4,SAVE10,SAVE10,Customer 176,Kolkata,10
+ORD1275,Customer 193,Female,52,Kolkata,Books,2,910.78,5,UPI,14-11-2025,,,NO COUPON RECORDED,Customer 193,Kolkata,5
+ORD1044,Customer 28,Female,49,Hyderabad,Electronics,2,384.8,20,Credit Card,14-11-2025,2,,NO COUPON RECORDED,Customer 28,Hyderabad,20
+ORD1300,Customer 146,Female,42,Pune,Books,7,608.74,15,Debit Card,08-11-2025,5,,NO COUPON RECORDED,Customer 146,Pune,15
+ORD1836,Customer 323,Female,31,Kolkata,Clothing,6,578.55,15,UPI,05-07-2025,,SAVE10,SAVE10,Customer 323,Kolkata,15
+ORD1076,Customer 132,Female,36,Kolkata,Clothing,2,948.63,20,Credit Card,08-09-2025,2,,NO COUPON RECORDED,Customer 132,Kolkata,20
+ORD1720,Customer 56,Male,37,Chennai,Electronics,7,798.92,15,Credit Card,13-07-2025,4,,NO COUPON RECORDED,Customer 56,Chennai,15
+ORD1906,Customer 165,Male,23,Kolkata,Books,1,1238.02,,Cash on Delivery,28-05-2025,5,,NO COUPON RECORDED,Customer 165,Kolkata,
+ORD1212,Customer 315,Male,39,Pune,Clothing,6,1020.19,10,UPI,03-03-2025,5,,NO COUPON RECORDED,Customer 315,Pune,10
+ORD1267,Customer 139,,38,Pune,Books,5,960.52,5,,22-11-2025,4,,NO COUPON RECORDED,Customer 139,Pune,5
+ORD1311,Customer 269,Male,39,Delhi,Electronics,2,598.19,15,,,4,,NO COUPON RECORDED,Customer 269,Delhi,15
+ORD1728,Customer 195,Male,39,Hyderabad,Electronics,5,2545.13,15,Debit Card,13-06-2025,5,,NO COUPON RECORDED,Customer 195,Hyderabad,15
+ORD1444,Customer 203,Male,57,Pune,Clothing,4,394.27,10,Cash on Delivery,24-03-2025,3,,NO COUPON RECORDED,Customer 203,Pune,10
+ORD1503,Customer 347,Male,36,Kolkata,Furniture,4,2642.15,20,Credit Card,27-09-2025,,,NO COUPON RECORDED,Customer 347,Kolkata,20
+ORD1495,Customer 165,Male,26,Bengaluru,Clothing,1,2232.07,,Debit Card,29-12-2025,2,,NO COUPON RECORDED,Customer 165,Bengaluru,
+ORD1033,,Male,34,Bengaluru,Books,5,363.24,0,,,3,,NO COUPON RECORDED,Unknown,Bengaluru,0
+ORD1009,Customer 38,Female,46,Mumbai,Electronics,7,5115.4,0,Cash on Delivery,15-05-2025,5,SAVE10,SAVE10,Customer 38,Mumbai,0
+ORD1688,Customer 178,Female,35,Pune,Clothing,4,623.22,,Credit Card,08-01-2025,4,,NO COUPON RECORDED,Customer 178,Pune,
+ORD1160,Customer 398,Female,34,Kolkata,Groceries,2,1053.98,20,Credit Card,09-06-2025,1,,NO COUPON RECORDED,Customer 398,Kolkata,20
+ORD1285,Customer 375,Male,35,Chennai,Clothing,2,550.85,,Credit Card,02-03-2025,,,NO COUPON RECORDED,Customer 375,Chennai,
+ORD1295,Customer 208,Female,43,Kolkata,Furniture,3,3326.23,0,Debit Card,17-05-2025,3,,NO COUPON RECORDED,Customer 208,Kolkata,0
+ORD1616,Customer 100,Female,28,Hyderabad,Groceries,3,960.82,15,UPI,12-08-2025,4,,NO COUPON RECORDED,Customer 100,Hyderabad,15
+ORD1824,Customer 249,,35,Mumbai,Groceries,3,582.64,0,Credit Card,03-03-2025,3,,NO COUPON RECORDED,Customer 249,Mumbai,0
+ORD1625,Customer 93,Female,33,Mumbai,Books,5,1481.17,0,UPI,10-12-2025,4,SAVE10,SAVE10,Customer 93,Mumbai,0
+ORD1277,Customer 313,Female,45,Chennai,Books,1,1767.92,0,Cash on Delivery,13-05-2025,,,NO COUPON RECORDED,Customer 313,Chennai,0
+ORD1992,Customer 79,,29,Kolkata,Furniture,5,351.64,0,UPI,04-06-2025,,,NO COUPON RECORDED,Customer 79,Kolkata,0
+ORD1603,Customer 54,Male,35,Mumbai,Electronics,5,1765.1,20,,05-02-2025,,,NO COUPON RECORDED,Customer 54,Mumbai,20
+ORD1484,Customer 185,Male,40,,Clothing,5,183.18,10,Cash on Delivery,,,,NO COUPON RECORDED,Customer 185,Unknown,10
+ORD1182,Customer 199,Female,45,Pune,Groceries,5,689.83,15,UPI,17-11-2025,4,,NO COUPON RECORDED,Customer 199,Pune,15
+ORD1827,Customer 358,Female,16,Hyderabad,Clothing,4,2681.31,15,Debit Card,01-09-2025,5,,NO COUPON RECORDED,Customer 358,Hyderabad,15
+ORD1684,Customer 68,Male,48,Hyderabad,Clothing,2,574.27,15,Debit Card,19-07-2025,4,,NO COUPON RECORDED,Customer 68,Hyderabad,15
+ORD1036,Customer 343,Female,41,Mumbai,Clothing,4,3261.58,5,Debit Card,01-05-2025,,,NO COUPON RECORDED,Customer 343,Mumbai,5
+ORD1156,Customer 51,Male,33,Chennai,Books,3,483.51,0,Cash on Delivery,14-10-2025,5,,NO COUPON RECORDED,Customer 51,Chennai,0
+ORD1002,Customer 262,Female,35,Mumbai,Furniture,4,834.88,0,,18-05-2025,5,,NO COUPON RECORDED,Customer 262,Mumbai,0
+ORD1754,Customer 222,Female,21,Kolkata,Groceries,1,1071.53,5,Credit Card,27-07-2025,5,,NO COUPON RECORDED,Customer 222,Kolkata,5
+ORD1508,Customer 108,Female,33,Chennai,Clothing,4,1158.04,5,Cash on Delivery,15-10-2025,5,,NO COUPON RECORDED,Customer 108,Chennai,5
+ORD1497,Customer 150,Female,45,Chennai,Groceries,1,351.63,20,,,5,,NO COUPON RECORDED,Customer 150,Chennai,20
+ORD1308,Customer 126,Male,35,Pune,Furniture,2,1200000,10,Debit Card,18-12-2025,,,NO COUPON RECORDED,Customer 126,Pune,10
+ORD1289,Customer 189,Female,43,Kolkata,Furniture,1,1372.9,0,UPI,03-10-2025,2,,NO COUPON RECORDED,Customer 189,Kolkata,0
+ORD1957,Customer 254,Female,34,Pune,Groceries,5,1787.91,,Debit Card,04-01-2025,,,NO COUPON RECORDED,Customer 254,Pune,
+ORD1560,Customer 215,Male,33,Chennai,Clothing,6,1375.75,15,UPI,29-06-2025,,,NO COUPON RECORDED,Customer 215,Chennai,15
+ORD1414,Customer 8,Female,6,Delhi,Clothing,1,1174.74,0,Cash on Delivery,11-01-2025,4,,NO COUPON RECORDED,Customer 8,Delhi,0
+ORD1421,Customer 278,Female,38,Delhi,Furniture,6,605.7,0,Debit Card,06-09-2025,5,SAVE10,SAVE10,Customer 278,Delhi,0
+ORD1141,Customer 86,Male,35,Chennai,Electronics,5,2054.86,15,Cash on Delivery,20-07-2025,5,,NO COUPON RECORDED,Customer 86,Chennai,15
+ORD1223,Customer 81,Female,50,Mumbai,Books,4,1949.4,,Cash on Delivery,25-03-2025,2,SAVE10,SAVE10,Customer 81,Mumbai,
+ORD1864,Customer 338,Female,36,Delhi,Groceries,1,1164.24,0,,28-01-2025,,,NO COUPON RECORDED,Customer 338,Delhi,0
+ORD1183,Customer 278,Male,37,Pune,Groceries,6,756.91,15,,10-08-2025,,,NO COUPON RECORDED,Customer 278,Pune,15
+ORD1843,Customer 15,Female,15,Delhi,Books,2,4794.83,,UPI,22-08-2025,3,,NO COUPON RECORDED,Customer 15,Delhi,
+ORD1672,Customer 254,Male,35,Kolkata,Electronics,7,588.46,5,UPI,10-08-2025,3,,NO COUPON RECORDED,Customer 254,Kolkata,5
+ORD1848,,Female,30,Kolkata,Groceries,250,810.27,0,Debit Card,03-06-2025,4,,NO COUPON RECORDED,Unknown,Kolkata,0
+ORD1511,Customer 298,Male,31,Bengaluru,Groceries,6,859.65,15,UPI,19-06-2025,5,SAVE10,SAVE10,Customer 298,Bengaluru,15
+ORD1912,Customer 151,Male,35,Pune,Electronics,4,1027.74,10,UPI,24-08-2025,5,,NO COUPON RECORDED,Customer 151,Pune,10
+ORD1731,Customer 168,Female,18,Chennai,Clothing,90,379.04,15,,23-01-2025,4,,NO COUPON RECORDED,Customer 168,Chennai,15
+ORD1611,Customer 185,Male,13,Hyderabad,Clothing,1,971.72,0,Debit Card,14-03-2025,2,,NO COUPON RECORDED,Customer 185,Hyderabad,0
+ORD1996,Customer 211,Female,33,Pune,Furniture,4,1257.05,0,Cash on Delivery,05-04-2025,1,SAVE10,SAVE10,Customer 211,Pune,0
+ORD1892,Customer 209,Female,21,Kolkata,Furniture,1,331.45,0,Cash on Delivery,27-11-2025,3,,NO COUPON RECORDED,Customer 209,Kolkata,0
+ORD1747,Customer 126,Male,25,Hyderabad,Furniture,5,1435.54,0,Credit Card,16-08-2025,,SAVE10,SAVE10,Customer 126,Hyderabad,0
+ORD1970,Customer 120,Female,23,Chennai,Electronics,6,1054.91,20,UPI,14-09-2025,5,,NO COUPON RECORDED,Customer 120,Chennai,20
+ORD1887,Customer 78,Male,40,Bengaluru,Furniture,6,710.76,,Debit Card,06-05-2025,,,NO COUPON RECORDED,Customer 78,Bengaluru,
+ORD1117,Customer 56,Female,36,Pune,Electronics,1,2538.08,15,Debit Card,02-08-2025,,,NO COUPON RECORDED,Customer 56,Pune,15
+ORD1853,Customer 96,Male,14,Bengaluru,Furniture,1,756.73,0,UPI,06-01-2025,3,SAVE10,SAVE10,Customer 96,Bengaluru,0
+ORD1001,Customer 309,Female,44,Kolkata,Electronics,6,3370.36,10,UPI,03-11-2025,5,,NO COUPON RECORDED,Customer 309,Kolkata,10
+ORD1113,,Male,37,Mumbai,Groceries,6,1515.71,5,Debit Card,05-06-2025,,,NO COUPON RECORDED,Unknown,Mumbai,5
+ORD1545,Customer 22,Female,44,Mumbai,Furniture,2,1389.75,10,Cash on Delivery,15-09-2025,5,,NO COUPON RECORDED,Customer 22,Mumbai,10
+ORD1686,Customer 163,Male,31,Mumbai,Furniture,3,2701.48,10,UPI,10-06-2025,4,,NO COUPON RECORDED,Customer 163,Mumbai,10
+ORD1765,Customer 312,Female,33,Chennai,Books,6,558.63,15,Credit Card,19-10-2025,3,,NO COUPON RECORDED,Customer 312,Chennai,15
+ORD1165,Customer 325,Male,28,Pune,Furniture,4,8056.15,0,UPI,10-06-2025,,SAVE10,SAVE10,Customer 325,Pune,0
+ORD1184,Customer 198,Male,45,Mumbai,Clothing,3,249.09,5,UPI,05-05-2025,3,,NO COUPON RECORDED,Customer 198,Mumbai,5
+ORD1704,Customer 52,Female,19,Kolkata,Clothing,1,472.38,20,UPI,22-05-2025,5,,NO COUPON RECORDED,Customer 52,Kolkata,20
+ORD1383,,Female,32,Mumbai,Books,5,901.08,5,Debit Card,18-11-2025,3,,NO COUPON RECORDED,Unknown,Mumbai,5
+ORD1561,Customer 18,Male,14,Chennai,Groceries,5,479.48,10,Debit Card,11-07-2025,3,,NO COUPON RECORDED,Customer 18,Chennai,10
+ORD1862,Customer 48,Female,33,Chennai,Books,7,548.64,,,23-03-2025,5,,NO COUPON RECORDED,Customer 48,Chennai,
+ORD1176,Customer 287,Male,30,Chennai,Clothing,7,293.47,15,Credit Card,18-07-2025,1,,NO COUPON RECORDED,Customer 287,Chennai,15
+ORD1379,Customer 105,Female,38,Pune,Clothing,7,1514.29,,Credit Card,21-11-2025,5,,NO COUPON RECORDED,Customer 105,Pune,
+ORD1519,Customer 238,Male,35,Chennai,Groceries,5,1062.02,20,UPI,11-02-2025,,,NO COUPON RECORDED,Customer 238,Chennai,20
+ORD1830,Customer 99,Male,34,Kolkata,Clothing,7,1384.99,15,UPI,09-10-2025,,,NO COUPON RECORDED,Customer 99,Kolkata,15
+ORD1413,Customer 53,Female,47,Pune,Electronics,2,4819.24,5,Credit Card,20-09-2025,4,,NO COUPON RECORDED,Customer 53,Pune,5
+ORD1622,Customer 66,Female,30,Hyderabad,Books,1,1509.12,0,Debit Card,08-02-2025,4,,NO COUPON RECORDED,Customer 66,Hyderabad,0
+ORD1858,Customer 267,Female,35,Bengaluru,Books,6,988,10,Cash on Delivery,27-02-2025,2,,NO COUPON RECORDED,Customer 267,Bengaluru,10
+ORD1641,Customer 366,Male,33,Hyderabad,Clothing,1,966.95,0,Cash on Delivery,16-01-2025,,,NO COUPON RECORDED,Customer 366,Hyderabad,0
+ORD1258,Customer 70,Female,40,Mumbai,Books,5,8965.94,0,Cash on Delivery,15-02-2025,5,,NO COUPON RECORDED,Customer 70,Mumbai,0
+ORD1834,Customer 341,Male,35,Mumbai,Furniture,3,641.03,5,Credit Card,29-03-2025,4,,NO COUPON RECORDED,Customer 341,Mumbai,5
+ORD1662,Customer 15,Male,46,Pune,Groceries,2,594.5,,Debit Card,31-07-2025,3,SAVE10,SAVE10,Customer 15,Pune,
+ORD1337,Customer 127,Male,32,Hyderabad,Books,7,1566.99,5,Credit Card,24-01-2025,2,,NO COUPON RECORDED,Customer 127,Hyderabad,5
+ORD1398,Customer 112,Male,39,Hyderabad,Electronics,2,1323.76,15,Debit Card,07-10-2025,2,,NO COUPON RECORDED,Customer 112,Hyderabad,15
+ORD1605,Customer 214,Female,38,Delhi,Electronics,3,1248.04,0,UPI,16-11-2025,4,SAVE10,SAVE10,Customer 214,Delhi,0
+ORD1480,Customer 115,Male,50,Kolkata,Clothing,3,3235.94,20,Debit Card,28-04-2025,2,,NO COUPON RECORDED,Customer 115,Kolkata,20
+ORD1917,,Male,15,Bengaluru,Clothing,4,180.52,15,Credit Card,18-12-2025,,,NO COUPON RECORDED,Unknown,Bengaluru,15
+ORD1875,Customer 202,Male,44,Chennai,Books,6,1096.87,0,Credit Card,18-01-2025,4,,NO COUPON RECORDED,Customer 202,Chennai,0
+ORD1659,Customer 115,Male,12,Kolkata,Clothing,6,2005.63,15,Cash on Delivery,26-09-2025,,,NO COUPON RECORDED,Customer 115,Kolkata,15
+ORD1789,Customer 5,Female,52,Bengaluru,Books,4,805,,Cash on Delivery,17-11-2025,1,,NO COUPON RECORDED,Customer 5,Bengaluru,
+ORD1256,Customer 271,Male,43,Bengaluru,Groceries,1,415.64,10,UPI,17-04-2025,5,,NO COUPON RECORDED,Customer 271,Bengaluru,10
+ORD1952,Customer 246,Male,20,Chennai,Books,6,1603.35,5,Debit Card,22-05-2025,4,,NO COUPON RECORDED,Customer 246,Chennai,5
